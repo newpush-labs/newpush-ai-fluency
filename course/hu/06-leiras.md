@@ -54,21 +54,17 @@ Mielőtt továbbmennél, szánj egy percet a gondolkodásra:
 
 ## A lecke anyagai
 
-![Fekete körvonalú kéz, amint tollat tart egy papír felett](https://www-cdn.anthropic.com/images/4zrzovbb/website/e49095f60a526acd2d62d858ad82feef5bdb334e-1000x1000.svg)
-
 ### Leírás összefoglaló dia (A4)
 
 A Leírás kompetencia tömör összefoglalója, amelyet gyors referenciaként kinyomtathatsz.
 
-[Letöltés](./pamphlets/8216cbfffb3c07053f2a959868a89087949f4779.pdf)
-
-![Fekete körvonalú kéz, amint tollat tart egy papír felett](https://www-cdn.anthropic.com/images/4zrzovbb/website/e49095f60a526acd2d62d858ad82feef5bdb334e-1000x1000.svg)
+[Letöltés](../pamphlets/8216cbfffb3c07053f2a959868a89087949f4779.pdf)
 
 ### Leírás összefoglaló dia (16:9)
 
 A Leírás kompetencia tömör összefoglalója, amelyet prezentációkban használhatsz.
 
-[Letöltés](./pamphlets/0178870bcc05e62ab4fd7191e6d52543e2dbc258.pdf)
+[Letöltés](../pamphlets/0178870bcc05e62ab4fd7191e6d52543e2dbc258.pdf)
 
 #### Mi következik?
 

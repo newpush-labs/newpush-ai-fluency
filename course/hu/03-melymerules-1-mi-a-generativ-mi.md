@@ -43,13 +43,11 @@ Mielőtt továbbmennél, szánj egy percet a gondolkodásra:
 
 ## A lecke anyagai
 
-![Fekete körvonalú kéz, amint tollat tart egy papír felett](https://www-cdn.anthropic.com/images/4zrzovbb/website/e49095f60a526acd2d62d858ad82feef5bdb334e-1000x1000.svg)
-
 ### A Generatív MI áttekintése
 
 Gyors referencia útmutató a generatív MI megértéséhez.
 
-[Letöltés](./pamphlets/9b7dd41bd7919c70a506e4ec600a60d3268d1dfb.pdf)
+[Letöltés](../pamphlets/9b7dd41bd7919c70a506e4ec600a60d3268d1dfb.pdf)
 
 #### **Mi következik?**
 

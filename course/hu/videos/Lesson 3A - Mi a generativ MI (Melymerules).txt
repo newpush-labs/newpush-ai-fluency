@@ -1,1 +1,97 @@
-Szia, a nevem Drew Bent, tanár, programozó és az Anthropic technikai stábjának tagja. Üdvözöllek a generatív MI felfedezésében. Ebben a videóban elmélyedünk abban, hogy valójában mi is a generatív MI, hogyan működik a motorháztető alatt, és milyen technológiai áttörések tették lehetővé ezeket a rendszereket. Lehet, hogy naponta interakcióba lépsz a generatív MI-vel anélkül, hogy teljesen megértenéd, mi történik a színfalak mögött. Változtassunk ezen. A generatív MI olyan mesterséges intelligencia rendszerekre utal, amelyek képesek új tartalmat létrehozni, nem csupán a meglévő adatokat elemezni. Például, míg a hagyományos MI e-maileket spamként vagy nem spamként osztályozhat minták alapján, a generatív MI képes egy teljesen új e-mailt írni neked. Az első megközelítés elemez és kategorizál. A második létrehoz valami újat, ami korábban nem létezett. Ez alapvető változást jelent az MI képességeiben. A nagy nyelvi modellek, vagy LLM-ek, mint az Anthropic Claude modelljei, a generatív MI kiemelkedő típusai. Nyelvi modelleknek nevezik őket, mert arra vannak tanítva, hogy előre jelezzék és generálják az emberi nyelvet, és nagynak, mert milliárdnyi paramétert tartalmaznak, matematikai értékeket, amelyek meghatározzák, hogyan dolgozza fel a modell az információt, némileg hasonlóan az agy szinaptikus kapcsolataihoz. A mai generatív MI-hez vezető út nem volt hirtelen. Három kulcsfontosságú fejlesztés együttesen, a megfelelő időben történő összekapcsolódását vonta maga után. Először is, voltak algoritmikus és architekturális áttörések, amelyek alapvetően megváltoztatták, hogyan tanulnak az MI rendszerek. Míg a neurális hálózatok koncepcionálisan évtizedek óta léteznek, a transzformer architektúra 2017-es kifejlesztése játékmegváltó volt. Ez az architektúra kiválóan alkalmas szövegszekvenciák feldolgozására, miközben fenntartja a szavak közötti kapcsolatokat hosszú szövegrészeken keresztül, ami kritikus a nyelv kontextusban való megértéséhez. Másodszor, a digitális adatok robbanásszerű növekedése biztosította a képzéshez szükséges alapanyagot. A modern LLM-ek, mint a Claude, különböző forrásokból tanulnak, például webhelyekről, kód-tárolókból és más szövegekből, amelyek az emberi tudást és kommunikációt képviselik. Ez a hatalmas információs szövevény segít a modelleknek széleskörű és árnyalt megértést kialakítani mind a nyelvről, mind a fogalmakról. És harmadszor, a számítási teljesítmény hatalmas növekedése tette lehetővé ezeknek a komplex modelleknek az összes adat felhasználásával történő képzését. A specializált hardverek, mint a GPU-k vagy grafikus feldolgozó egységek és a TPU-k vagy tenzor feldolgozó egységek, valamint az elosztott számítástechnikai hálózatok, amelyeket gyakran klasztereknek neveznek, olyan feldolgozást tesznek lehetővé, ami néhány évvel ezelőtt még lehetetlen lett volna. E három tényező kombinációja egy fontos felfedezéshez vezetett, amelyet skálázási törvényeknek neveznek. Ezek az empirikus megállapítások azt mutatták, hogy ahogy a modellek nagyobbak lettek és több adaton, több számítási teljesítménnyel tanultak, teljesítményük előre jelezhető módon javult. Még meglepőbb, hogy a kutatók azt találták, hogy teljesen új képességek kezdtek megjelenni, ahogy ezek a modellek nőttek. Olyan képességek, amelyeket senki sem programozott be explicit módon, mint például a problémák lépésről lépésre történő végiggondolása vagy az új feladatokhoz való alkalmazkodás minimális utasítással. Vessünk egy pillantást a motorháztető alá, hogy hogyan is működnek ezek a rendszerek. A kezdeti képzés, más néven előképzés során az LLM-ek, mint a Claude, milliárdnyi szöveges példa mintázatait elemzik. Képzeld el, hogy elolvasol minden webhelyet és szöveget, amit csak találsz, nem csak azért, hogy információt szívj magadba, hanem hogy megértsd a szavak, kifejezések és fogalmak közötti statisztikai kapcsolatokat. Ebben a szakaszban a modell lényegében egy komplex nyelvi és tudástérképet épít. Ez az előképzési folyamat magában foglalja, hogy a modellnek szöveget mutatnak, és megkérik, hogy jósolja meg, mi következik. Sok iteráció során a modell fokozatosan finomítja a jóslatait, megtanulva azokat a mintázatokat, amelyek a nyelvet koherenssé és értelmessé teszik. Az előképzés után a modellek további képzésen, úgynevezett finomhangoláson esnek át, ahol megtanulják követni az utasításokat, hasznos válaszokat adni, és ami fontos, elkerülni a káros tartalom generálását. Ez gyakran emberi visszajelzést is magában foglal a modell teljesítményének javítása érdekében, valamint megerősítéses tanulást, amely jutalmakkal és büntetésekkel formálja a modell viselkedését, hogy segítőkészebb, őszintébb és ártalmatlanabb legyen. Az Anthropic modelljei esetében, miután a modelleket kiképezték, telepítik őket, hogy interakcióba léphess velük. Amikor interakcióba lépsz a Claude-dal vagy egy másik LLM-mel, egy promptot adsz meg, ami egy szöveg, amit a modell elolvas, majd folytat a képzés során tanult mintázatok alapján. A modell nem előre megírt válaszokat kér le egy adatbázisból. Ehelyett új szöveget generál, amely statisztikailag következik abból, amit írtál. Van egy gyakorlati korlátja is annak, hogy egy LLM mennyi információt tud egyszerre figyelembe venni, ezt kontextusablaknak nevezik. Gondolj erre úgy, mint az MI munkamemóriájára. A kontextusablak tartalmazza a promptjaidat, az MI válaszait és minden más információt, amit a beszélgetés során megosztottál. Bár az MI cégek folyamatosan növelik a kontextusablakot, hogy hosszabb kontextusú dokumentumokat és beszélgetéseket tegyenek lehetővé, ezek a korlátok emlékeztetnek minket arra, hogy ezeknek a rendszereknek nincs korlátlan hozzáférésük az információkhoz, és nem tudnak a jelenlegi kontextusablakon túli tartalmat használni specializált eszközök, például webes keresés nélkül. Összefoglalva, a modern generatív MI-t három jellemző teszi olyan erőteljessé: először is, képessége, hogy hatalmas mennyiségű információt dolgozzon fel a képzés során, lehetővé téve számára, hogy komplex és árnyalt mintázatokat tanuljon meg a nyelvben és a tudásban. Másodszor, a kontextuson belüli tanulási képessége. Az LLM-ek képesek alkalmazkodni új feladatokhoz utasítások vagy példák alapján a promptodban, anélkül, hogy további képzésre lenne szükségük. És harmadszor, a méretből adódó felmerülő képességek. Ahogy ezek a modellek nagyobbak lesznek, olyan képességeket fejlesztenek ki, amelyeket nem explicit módon terveztek beléjük, néha még az alkotóikat is meglepve. A következő videóban azt vizsgáljuk meg, hogy ezek a rendszerek mit tudnak és mit nem tudnak jól, valamint a leggyakoribb vagy legértékesebb alkalmazásaikat.
+Szia, a nevem Drew Bent, tanár, programozó és az Anthropic technikai stábjának tagja.
+
+Üdvözöllek a generatív MI felfedezésében.
+
+Ebben a videóban elmélyedünk abban, hogy valójában mi is a generatív MI, hogyan működik a motorháztető alatt, és milyen technológiai áttörések tették lehetővé ezeket a rendszereket.
+
+Lehet, hogy naponta interakcióba lépsz a generatív MI-vel anélkül, hogy teljesen megértenéd, mi történik a színfalak mögött.
+
+Változtassunk ezen.
+
+A generatív MI olyan mesterséges intelligencia rendszerekre utal, amelyek képesek új tartalmat létrehozni, nem csupán a meglévő adatokat elemezni.
+
+Például, míg a hagyományos MI e-maileket spamként vagy nem spamként osztályozhat minták alapján, a generatív MI képes egy teljesen új e-mailt írni neked.
+
+Az első megközelítés elemez és kategorizál.
+
+A második létrehoz valami újat, ami korábban nem létezett.
+
+Ez alapvető változást jelent az MI képességeiben.
+
+A nagy nyelvi modellek, vagy LLM-ek, mint az Anthropic Claude modelljei, a generatív MI kiemelkedő típusai.
+
+Nyelvi modelleknek nevezik őket, mert arra vannak tanítva, hogy előre jelezzék és generálják az emberi nyelvet, és nagynak, mert milliárdnyi paramétert tartalmaznak, matematikai értékeket, amelyek meghatározzák, hogyan dolgozza fel a modell az információt, némileg hasonlóan az agy szinaptikus kapcsolataihoz.
+
+A mai generatív MI-hez vezető út nem volt hirtelen.
+
+Három kulcsfontosságú fejlesztés együttesen, a megfelelő időben történő összekapcsolódását vonta maga után.
+
+Először is, voltak algoritmikus és architekturális áttörések, amelyek alapvetően megváltoztatták, hogyan tanulnak az MI rendszerek.
+
+Míg a neurális hálózatok koncepcionálisan évtizedek óta léteznek, a transzformer architektúra 2017-es kifejlesztése játékmegváltó volt.
+
+Ez az architektúra kiválóan alkalmas szövegszekvenciák feldolgozására, miközben fenntartja a szavak közötti kapcsolatokat hosszú szövegrészeken keresztül, ami kritikus a nyelv kontextusban való megértéséhez.
+
+Másodszor, a digitális adatok robbanásszerű növekedése biztosította a képzéshez szükséges alapanyagot.
+
+A modern LLM-ek, mint a Claude, különböző forrásokból tanulnak, például webhelyekről, kód-tárolókból és más szövegekből, amelyek az emberi tudást és kommunikációt képviselik.
+
+Ez a hatalmas információs szövevény segít a modelleknek széleskörű és árnyalt megértést kialakítani mind a nyelvről, mind a fogalmakról.
+
+És harmadszor, a számítási teljesítmény hatalmas növekedése tette lehetővé ezeknek a komplex modelleknek az összes adat felhasználásával történő képzését.
+
+A specializált hardverek, mint a GPU-k vagy grafikus feldolgozó egységek és a TPU-k vagy tenzor feldolgozó egységek, valamint az elosztott számítástechnikai hálózatok, amelyeket gyakran klasztereknek neveznek, olyan feldolgozást tesznek lehetővé, ami néhány évvel ezelőtt még lehetetlen lett volna.
+
+E három tényező kombinációja egy fontos felfedezéshez vezetett, amelyet skálázási törvényeknek neveznek.
+
+Ezek az empirikus megállapítások azt mutatták, hogy ahogy a modellek nagyobbak lettek és több adaton, több számítási teljesítménnyel tanultak, teljesítményük előre jelezhető módon javult.
+
+Még meglepőbb, hogy a kutatók azt találták, hogy teljesen új képességek kezdtek megjelenni, ahogy ezek a modellek nőttek.
+
+Olyan képességek, amelyeket senki sem programozott be explicit módon, mint például a problémák lépésről lépésre történő végiggondolása vagy az új feladatokhoz való alkalmazkodás minimális utasítással.
+
+Vessünk egy pillantást a motorháztető alá, hogy hogyan is működnek ezek a rendszerek.
+
+A kezdeti képzés, más néven előképzés során az LLM-ek, mint a Claude, milliárdnyi szöveges példa mintázatait elemzik.
+
+Képzeld el, hogy elolvasol minden webhelyet és szöveget, amit csak találsz, nem csak azért, hogy információt szívj magadba, hanem hogy megértsd a szavak, kifejezések és fogalmak közötti statisztikai kapcsolatokat.
+
+Ebben a szakaszban a modell lényegében egy komplex nyelvi és tudástérképet épít.
+
+Ez az előképzési folyamat magában foglalja, hogy a modellnek szöveget mutatnak, és megkérik, hogy jósolja meg, mi következik.
+
+Sok iteráció során a modell fokozatosan finomítja a jóslatait, megtanulva azokat a mintázatokat, amelyek a nyelvet koherenssé és értelmessé teszik.
+
+Az előképzés után a modellek további képzésen, úgynevezett finomhangoláson esnek át, ahol megtanulják követni az utasításokat, hasznos válaszokat adni, és ami fontos, elkerülni a káros tartalom generálását.
+
+Ez gyakran emberi visszajelzést is magában foglal a modell teljesítményének javítása érdekében, valamint megerősítéses tanulást, amely jutalmakkal és büntetésekkel formálja a modell viselkedését, hogy segítőkészebb, őszintébb és ártalmatlanabb legyen.
+
+Az Anthropic modelljei esetében, miután a modelleket kiképezték, telepítik őket, hogy interakcióba léphess velük.
+
+Amikor interakcióba lépsz a Claude-dal vagy egy másik LLM-mel, egy promptot adsz meg, ami egy szöveg, amit a modell elolvas, majd folytat a képzés során tanult mintázatok alapján.
+
+A modell nem előre megírt válaszokat kér le egy adatbázisból.
+
+Ehelyett új szöveget generál, amely statisztikailag következik abból, amit írtál.
+
+Van egy gyakorlati korlátja is annak, hogy egy LLM mennyi információt tud egyszerre figyelembe venni, ezt kontextusablaknak nevezik.
+
+Gondolj erre úgy, mint az MI munkamemóriájára.
+
+A kontextusablak tartalmazza a promptjaidat, az MI válaszait és minden más információt, amit a beszélgetés során megosztottál.
+
+Bár az MI cégek folyamatosan növelik a kontextusablakot, hogy hosszabb kontextusú dokumentumokat és beszélgetéseket tegyenek lehetővé, ezek a korlátok emlékeztetnek minket arra, hogy ezeknek a rendszereknek nincs korlátlan hozzáférésük az információkhoz, és nem tudnak a jelenlegi kontextusablakon túli tartalmat használni specializált eszközök, például webes keresés nélkül.
+
+Összefoglalva, a modern generatív MI-t három jellemző teszi olyan erőteljessé:
+
+először is, képessége, hogy hatalmas mennyiségű információt dolgozzon fel a képzés során, lehetővé téve számára, hogy komplex és árnyalt mintázatokat tanuljon meg a nyelvben és a tudásban.
+
+Másodszor, a kontextuson belüli tanulási képessége.
+
+Az LLM-ek képesek alkalmazkodni új feladatokhoz utasítások vagy példák alapján a promptodban, anélkül, hogy további képzésre lenne szükségük.
+
+És harmadszor, a méretből adódó felmerülő képességek.
+
+Ahogy ezek a modellek nagyobbak lesznek, olyan képességeket fejlesztenek ki, amelyeket nem explicit módon terveztek beléjük, néha még az alkotóikat is meglepve.
+
+A következő videóban azt vizsgáljuk meg, hogy ezek a rendszerek mit tudnak és mit nem tudnak jól, valamint a leggyakoribb vagy legértékesebb alkalmazásaikat.

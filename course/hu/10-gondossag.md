@@ -35,7 +35,7 @@ Hangsúlyozzuk, hogy a különböző kontextusoknak eltérő elvárásaik lehetn
 
 *Becsült idő: 14 perc*
 
-Ebben a gyakorlatban egy gondossági nyilatkozatot fogsz megfogalmazni a projekthez, amin dolgoztál. Itt található maga a kurzus [gondossági nyilatkozata](./pamphlets/0e37fa9da01fab7a5478a2194d352027794c1b89.pdf).
+Ebben a gyakorlatban egy gondossági nyilatkozatot fogsz megfogalmazni a projekthez, amin dolgoztál. Itt található maga a kurzus [gondossági nyilatkozata](../pamphlets/0e37fa9da01fab7a5478a2194d352027794c1b89.pdf).
 
 #### **1. lépés: A Gondossági Nyilatkozatok Megértése**
 
@@ -95,21 +95,17 @@ Mielőtt továbbmennél, szánj egy percet a gondolkodásra:
 
 ## A lecke anyagai
 
-![Fekete körvonalú kéz, amint tollat tart egy papír felett](https://www-cdn.anthropic.com/images/4zrzovbb/website/e49095f60a526acd2d62d858ad82feef5bdb334e-1000x1000.svg)
-
 ### Gondosság összefoglaló dia (A4)
 
 A Gondosság kompetencia tömör összefoglalója, amelyet gyors referenciaként kinyomtathatsz.
 
-[Letöltés](./pamphlets/97ccae9e659f590c192de721eff980ba7549535b.pdf)
-
-![Fekete körvonalú kéz, amint tollat tart egy papír felett](https://www-cdn.anthropic.com/images/4zrzovbb/website/e49095f60a526acd2d62d858ad82feef5bdb334e-1000x1000.svg)
+[Letöltés](../pamphlets/97ccae9e659f590c192de721eff980ba7549535b.pdf)
 
 ### Gondosság összefoglaló dia (16:9)
 
 A Gondosság kompetencia tömör összefoglalója, amelyet prezentációkban használhatsz.
 
-[Letöltés](./pamphlets/34612aacbf37f6aa12140fc0a1aa216b63263aac.pdf)
+[Letöltés](../pamphlets/34612aacbf37f6aa12140fc0a1aa216b63263aac.pdf)
 
 #### Mi következik?
 

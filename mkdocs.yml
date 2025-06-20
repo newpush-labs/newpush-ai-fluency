@@ -1,11 +1,17 @@
-site_name: AI Fluency Course - Hungarian
+site_name: Az MI Fluencia Keretrendszer
 docs_dir: course/hu
 theme:
   name: material
   language: hu
+  logo: images/newpush.svg
+  favicon: images/newpush.svg
+  font:
+    text: Roboto
+    code: Roboto Mono
 extra_css:
   - custom.css
 nav:
+  - 'Kezdőlap': 'index.md'
   - 'Bevezetés az MI Fluenciába': '01-bevezetes-az-mi-fluenciaba.md'
   - 'Az MI Fluencia Keretrendszer': '02-az-mi-fluencia-keretrendszer.md'
   - 'Mélymerülés 1: Mi a Generatív MI?': '03-melymerules-1-mi-a-generativ-mi.md'

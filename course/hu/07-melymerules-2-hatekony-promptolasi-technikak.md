@@ -43,13 +43,11 @@ Ha szeretnéd, térj vissza az előző lecke "Rossz Prompt Átalakítása" gyako
 
 ## A lecke anyagai
 
-![Fekete körvonalú kéz, amint tollat tart egy papír felett](https://www-cdn.anthropic.com/images/4zrzovbb/website/e49095f60a526acd2d62d858ad82feef5bdb334e-1000x1000.svg)
-
 ### 6 technika a hatékony prompt-tervezéshez
 
 Nézd meg, hogyan alakíthatók át a homályos promptok hatékonyakká ezekkel a valós példákkal.
 
-[Letöltés](./pamphlets/62df988c101af71291b06843b63d39bbd600bed8.pdf)
+[Letöltés](../pamphlets/62df988c101af71291b06843b63d39bbd600bed8.pdf)
 
 #### Mi következik?
 

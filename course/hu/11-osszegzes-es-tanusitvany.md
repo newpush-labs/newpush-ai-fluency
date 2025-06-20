@@ -70,8 +70,6 @@ Köszönjük a részvételt és az elkötelezettséget a kurzus során!
 
 ## Teljesítési igazolás
 
-![Fekete körvonalú két kéz gépelési pozícióban](https://www-cdn.anthropic.com/images/4zrzovbb/website/b942406888d34e5042473a9a2b1fb19a3ac4c761-1000x1000.svg)
-
 ### Záróvizsga
 
 Tedd le ezt a záróvizsgát, hogy teszteld az MI Fluenciádat és megkapd a hivatalos tanúsítványodat.

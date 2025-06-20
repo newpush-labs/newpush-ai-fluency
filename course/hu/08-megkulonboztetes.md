@@ -101,21 +101,17 @@ Mielőtt továbbmennél, szánj egy percet a gondolkodásra:
 
 ## A lecke anyagai
 
-![Fekete körvonalú kéz, amint tollat tart egy papír felett](https://www-cdn.anthropic.com/images/4zrzovbb/website/e49095f60a526acd2d62d858ad82feef5bdb334e-1000x1000.svg)
-
 ### Megkülönböztetés összefoglaló dia (A4)
 
 A Megkülönböztetés kompetencia tömör összefoglalója, amelyet gyors referenciaként kinyomtathatsz.
 
-[Letöltés](./pamphlets/99c028dbb44fcc976b26588d98c676540f2aea38.pdf)
-
-![Fekete körvonalú kéz, amint tollat tart egy papír felett](https://www-cdn.anthropic.com/images/4zrzovbb/website/e49095f60a526acd2d62d858ad82feef5bdb334e-1000x1000.svg)
+[Letöltés](../pamphlets/99c028dbb44fcc976b26588d98c676540f2aea38.pdf)
 
 ### Megkülönböztetés összefoglaló dia (16:9)
 
 A Megkülönböztetés kompetencia tömör összefoglalója, amelyet prezentációkban használhatsz.
 
-[Letöltés](./pamphlets/d8ba4eda6eed65f193be549d49385006de8b7119.pdf)
+[Letöltés](../pamphlets/d8ba4eda6eed65f193be549d49385006de8b7119.pdf)
 
 #### Mi következik?
 

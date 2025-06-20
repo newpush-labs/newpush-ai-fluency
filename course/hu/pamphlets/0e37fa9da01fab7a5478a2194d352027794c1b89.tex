@@ -1,4 +1,4 @@
-\documentclass[a4paper, 12pt]{article}
+\documentclass[a4paper, 11pt]{article}
 
 % PACKAGES
 \usepackage[utf8]{inputenc}
@@ -11,14 +11,99 @@
 \usepackage{geometry}
 \usepackage{xcolor}
 \usepackage{hyperref}
+\usepackage{titlesec}
+\usepackage{enumitem}
+\usepackage{fancyhdr}
+\usepackage{tcolorbox}
+\usepackage{listings}
+\usepackage[scaled=0.9]{roboto-mono}
 
-% GEOMETRY
+% GEOMETRY - Match the MkDocs content width
 \geometry{
  a4paper,
- total={170mm,257mm},
- left=20mm,
- top=20mm,
+ total={160mm,240mm},
+ left=25mm,
+ top=25mm,
+ bottom=25mm,
 }
+
+% COLORS - Match MkDocs theme colors
+\definecolor{primary}{HTML}{1967C0}
+\definecolor{secondary}{HTML}{1976D2}
+\definecolor{accent}{HTML}{2980B9}
+\definecolor{textcolor}{HTML}{2C3E50}
+\definecolor{lightgray}{HTML}{F8F9FA}
+\definecolor{codebg}{HTML}{F1F3F4}
+\definecolor{codetext}{HTML}{D73502}
+
+% FONT SETUP - Use Roboto to match MkDocs
+\renewcommand{\familydefault}{\sfdefault}
+\usepackage[default]{roboto}
+
+% TYPOGRAPHY - Match MkDocs hierarchy
+\titleformat{\section}
+  {\fontsize{18}{22}\bfseries\color{primary}}
+  {\thesection}{1em}{}
+  [\vspace{0.5em}{\color{lightgray}\titlerule[2pt]}]
+
+\titleformat{\subsection}
+  {\fontsize{15}{18}\bfseries\color{secondary}}
+  {\thesubsection}{1em}{}
+  [\vspace{0.3em}{\color{lightgray}\titlerule[1pt]}]
+
+\titleformat{\subsubsection}
+  {\fontsize{12}{15}\bfseries\color{textcolor}}
+  {\thesubsubsection}{1em}{}
+
+% SPACING - Match MkDocs spacing
+\setlength{\parindent}{0pt}
+\setlength{\parskip}{1.25em}
+\renewcommand{\baselinestretch}{1.6}
+
+% LIST STYLING - Match MkDocs custom lists
+\setlist[itemize]{
+  leftmargin=1.5em,
+  itemsep=0.75em,
+  parsep=0pt,
+  topsep=0.5em
+}
+
+\setlist[enumerate]{
+  leftmargin=2em,
+  itemsep=0.75em,
+  parsep=0pt,
+  topsep=0.5em
+}
+
+% HYPERLINKS - Match MkDocs link styling
+\hypersetup{
+  colorlinks=true,
+  linkcolor=accent,
+  urlcolor=accent,
+  citecolor=accent,
+  filecolor=accent
+}
+
+% HEADER/FOOTER - Clean professional look
+\pagestyle{fancy}
+\fancyhf{}
+\fancyhead[L]{\small\color{textcolor}MI Gondosság}
+\fancyhead[R]{\small\color{textcolor}Az MI Fluencia Keretrendszer}
+\fancyfoot[C]{\small\color{textcolor}\thepage}
+\renewcommand{\headrulewidth}{0.5pt}
+\renewcommand{\footrulewidth}{0pt}
+
+% TITLE STYLING - Match MkDocs h1 styling
+\makeatletter
+\renewcommand{\maketitle}{
+  \begin{center}
+    {\fontsize{22}{26}\bfseries\color{primary}MI Gondosság}
+    \vspace{0.5em}
+    {\color{lightgray}\titlerule[3pt]}
+    \vspace{1.5em}
+  \end{center}
+}
+\makeatother
 
 % DOCUMENT
 \begin{document}

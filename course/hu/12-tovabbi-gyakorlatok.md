@@ -85,7 +85,7 @@ Ahogy együttműködtök, gyakorold mindhárom típusú Megkülönböztetést:
 
 Folytasd a Leírási és Megkülönböztetési készségeid fejlesztését ezekkel a tevékenységekkel:
 
-*   **Húsz kérdés:** Gondoljon a Claude egy tárgyra, személyre vagy fogalomra, majd próbáld meg kitalálni igen/nem kérdésekkel. Aztán cseréljetek szerepet. Figyeld meg, hogyan fogalmaztok meg kérdéseket és adtok nyomokat.
+*   **Húsz kérdés:** Kérd meg a Claude-ot, hogy gondoljon egy tárgyra, személyre vagy fogalomra, majd próbáld meg kitalálni igen/nem kérdésekkel. Aztán cseréljetek szerepet. Figyeld meg, hogyan fogalmaztok meg kérdéseket és adtok nyomokat.
 *   **Közös történetmesélés:** Kezdj egy történetet egy mondattal, hagyd, hogy a Claude folytassa egy másikkal, és váltogassátok egymást. Figyeld meg, hogyan tartjátok fenn mindketten a narratív koherenciát és építetek egymás ötleteire.
 *   **Egy varázsló közeledik hozzád a kocsmában:** Ha szeretsz szerepjátékokat játszani, próbálj meg játszani egy-két játékot egy nyelvi modellel, akár játékosként, akár játékmesterként.
 *   **Koncepciók és korlátok:** Válassz egy összetett koncepciót és nagyon szűk korlátokat, például "magyarázd el csak főzési metaforákkal". Aztán kérd meg a Claude-ot, hogy adjon neked egy kihívást, próbáld ki magad, és hasonlítsátok össze a megközelítéseket.

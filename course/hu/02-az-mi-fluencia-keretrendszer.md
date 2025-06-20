@@ -122,23 +122,17 @@ Mielőtt továbbmennél, szánj egy percet a gondolkodásra:
 
 ## A lecke anyagai
 
-![Fekete körvonalú kéz, amint tollat tart egy papír felett](https://www-cdn.anthropic.com/images/4zrzovbb/website/e49095f60a526acd2d62d858ad82feef5bdb334e-1000x1000.svg)
-
 ### Az MI Fluencia Keretrendszer összefoglalója (A4)
 
 Gyors vizuális referencia a négy alapkompetenciához (a "4D"-hez) és a kulcsfogalmakhoz. Referencia poszterként kinyomtatható.
 
-[Letöltés](./pamphlets/b383cf6baddbfc72fdf8b0ed533a518e2872d531.pdf)
-
-![Fekete körvonalú kéz, amint tollat tart egy papír felett](https://www-cdn.anthropic.com/images/4zrzovbb/website/e49095f60a526acd2d62d858ad82feef5bdb334e-1000x1000.svg)
+[Letöltés](../pamphlets/b383cf6baddbfc72fdf8b0ed533a518e2872d531.pdf)
 
 ### Az MI Fluencia Keretrendszer összefoglalója (16:9)
 
 Gyors vizuális referencia a négy alapkompetenciához (a "4D"-hez) és a kulcsfogalmakhoz. Prezentációkban használható.
 
-[Letöltés](./pamphlets/334975cdec18f744b4fa511dc8518bd8d119d29d.pdf)
-
-![Profilfej körvonala csillag alakú gondolatmintával és kézzel](https://www-cdn.anthropic.com/images/4zrzovbb/website/40dd8879a5fff6d9559ba174288a84d3eb47ca89-1000x1000.svg)
+[Letöltés](../pamphlets/334975cdec18f744b4fa511dc8518bd8d119d29d.pdf)
 
 ### Keretrendszer gyakorlati összefoglaló
 
