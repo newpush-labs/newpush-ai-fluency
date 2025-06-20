@@ -2,6 +2,9 @@ site_name: AI Fluency Course - Hungarian
 docs_dir: course/hu
 theme:
   name: material
+  language: hu
+extra_css:
+  - custom.css
 nav:
   - 'Bevezetés az MI Fluenciába': '01-bevezetes-az-mi-fluenciaba.md'
   - 'Az MI Fluencia Keretrendszer': '02-az-mi-fluencia-keretrendszer.md'
