@@ -1,0 +1,17 @@
+site_name: AI Fluency Course - Hungarian
+docs_dir: course/hu
+theme:
+  name: material
+nav:
+  - 'Bevezetés az MI Fluenciába': '01-bevezetes-az-mi-fluenciaba.md'
+  - 'Az MI Fluencia Keretrendszer': '02-az-mi-fluencia-keretrendszer.md'
+  - 'Mélymerülés 1: Mi a Generatív MI?': '03-melymerules-1-mi-a-generativ-mi.md'
+  - 'Delegáció': '04-delegacio.md'
+  - 'A Delegáció Alkalmazása': '05-a-delegacio-alkalmazasa.md'
+  - 'Leírás': '06-leiras.md'
+  - 'Mélymerülés 2: Hatékony Promptolási Technikák': '07-melymerules-2-hatekony-promptolasi-technikak.md'
+  - 'Megkülönböztetés': '08-megkulonboztetes.md'
+  - 'A Leírás-Megkülönböztetés Hurok': '09-a-leiras-megkulonboztetes-hurok.md'
+  - 'Gondosság': '10-gondossag.md'
+  - 'Összegzés és Tanúsítvány': '11-osszegzes-es-tanusitvany.md'
+  - 'További Gyakorlatok': '12-tovabbi-gyakorlatok.md'

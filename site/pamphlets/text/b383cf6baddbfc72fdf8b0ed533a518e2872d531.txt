@@ -1,0 +1,14 @@
+Az MI Fluencia
+Keretrendszer
+Négy egymással összefüggő kompetencia, amelyek biztosítják, hogy az MI-vel való interakcióink hatékonyak, eredményesek, etikusak és biztonságosak legyenek.
+A 4D keretrendszer
+Célok kitűzése és annak eldöntése, hogy mikor és hogyan vonjuk be az MI-t. A célok hatékony leírása a hasznos MI viselkedések és kimenetek előidézéséhez.
+Delegálás Leírás
+Az MI kimeneteinek és viselkedésének hasznosságának pontos felmérése. Felelősségvállalás azért, amit az MI-vel teszünk és ahogyan tesszük.
+Megkülönböztetés Gondosság
+Kulcsfogalmak
+Az MI interakció három módja Az MI Fluencia azt jelenti, hogy az MI rendszerekkel olyan módon lépünk kapcsolatba, amely hatékony, eredményes, etikus és biztonságos.
+Automatizálás: Az MI konkrét feladatokat hajt végre emberi utasítások alapján. A delegálás, leírás, megkülönböztetés és gondosság
+Bővítés: Az emberek és az MI gondolkodó partnerként működnek együtt a feladatok elvégzésében. kompetenciák egymással összefüggő készségek, ismeretek,
+Ügynökség: Az emberek úgy konfigurálják az MI-t, hogy önállóan végezzen jövőbeli feladatokat a nevükben. belátások, értékek gyűjteményei.
+Copyright 2025 Rick Dakan, Joseph Feller és Anthropic. Kiadva a CC BY-NC-SA 4.0 licenc alatt.

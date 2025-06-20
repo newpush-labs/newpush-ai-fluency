@@ -1,0 +1,19 @@
+A 4D-k:
+A 4D-k: ANTHROP\C
+Megkülönböztetés
+Megkülönböztetés
+A megkülönböztetés az a képesség, hogy átgondoltan és kritikusan értékeljük, mit
+az MI termel, hogyan termeli, és hogyan viselkedik.
+B JE
+D
+O-
+Sóhaj.
+~ ~
+Termék megkülönböztetés Folyamat megkülönböztetés Teljesítmény megkülönböztetés
+Termék megkülönböztetés Folyamat megkülönböztetés Teljesítmény megkülönböztetés
+Annak értékelése, hogy az MI mit termel (pontosság, megfelelőség, koherencia, relevancia). Annak értékelése, hogyan jutott az MI a kimenetéhez, logikai hibákat, figyelmetlenségeket vagy nem megfelelő érvelési lépéseket keresve. Annak értékelése, hogyan viselkedik az MI az interakció során, figyelembe véve, hogy kommunikációs stílusa hatékony-e az Ön igényeinek.
+Annak értékelése, hogy az MI mit termel (pontosság, megfelelőség, koherencia, relevancia). Annak értékelése, hogyan jutott az MI a kimenetéhez, logikai hibákat, figyelmetlenségeket vagy nem megfelelő érvelési lépéseket keresve. Annak értékelése, hogyan viselkedik az MI az interakció során, figyelembe véve, hogy kommunikációs stílusa hatékony-e az Ön igényeinek.
+A megkülönböztetés kéz a kézben működik a leírással egy folyamatos visszacsatolási hurokban.
+A megkülönböztetés kéz a kézben működik a leírással egy folyamatos visszacsatolási hurokban.
+Copyright 2025 Rick Dakan, Joseph Feller és Anthropic. Kiadva a CC BY-NC-SA 4.0 licenc alatt.
+Copyright 2025 Rick Dakan, Joseph Feller és Anthropic. Kiadva a CC BY-NC-SA 4.0 licenc alatt.

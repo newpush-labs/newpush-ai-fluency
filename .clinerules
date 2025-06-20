@@ -1,0 +1,4 @@
+- **Documentation**: All documentation should be maintained in the `docs/` directory.
+- **Script Directory**: All Python scripts should be created within the `scripts/` directory.
+- **Script Persistence**: Scripts created for a task should be kept after the task is completed, not deleted.
+- **Virtual Environment**: Always use a virtual environment for installing packages.

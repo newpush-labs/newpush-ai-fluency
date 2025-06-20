@@ -1,0 +1,83 @@
+ANTHROP\C
+MI Fluencia:
+Kulcsfogalmak Csalólap
+Alapvető MI Fluencia Keretrendszer Fogalmak Megkülönböztetés
+Az MI kimeneteinek, folyamatainak, viselkedésének és interakcióinak átgondolt és kritikus értékelése. Magában foglalja a minőség, a pontosság, a megfelelőség értékelését és a fejlesztési területek meghatározását.
+MI Fluencia
+Az a képesség, hogy hatékonyan, eredményesen, etikusan és biztonságosan dolgozzunk az MI rendszerekkel. Magában foglalja a gyakorlati készségeket, ismereteket, belátásokat és értékeket, amelyek segítenek alkalmazkodni a fejlődő MI technológiákhoz.
+• Termék megkülönböztetés: Annak értékelése, hogy az MI mit produkál (pontosság, megfelelőség, koherencia, relevancia)
+A 4D-k
+Az MI Fluencia négy alapkompetenciája: Delegálás, Leírás, Megkülönböztetés és Gondosság.
+• Folyamat megkülönböztetés: Annak értékelése, hogy az MI hogyan jutott el a kimenetéhez, logikai hibákat, figyelmetlenségeket vagy nem megfelelő érvelési lépéseket keresve
+Delegálás
+Annak eldöntése, hogy mely munkát végezzék emberek, melyiket az MI, és hogyan osszák el a feladatokat közöttük. Magában foglalja a célok megértését, az MI képességeit és a stratégiai döntéseket az együttműködésről.
+• Teljesítmény megkülönböztetés: Annak értékelése, hogyan viselkedik az MI az interakció során, figyelembe véve, hogy kommunikációs stílusa hatékony-e az Ön igényeinek
+Gondosság
+• Problématudatosság: A célok és a munka természetének világos megértése az MI bevonása előtt.
+Az MI felelősségteljes és etikus használata. Magában foglalja az MI rendszerekkel és interakciókkal kapcsolatos átgondolt döntéseket, az átláthatóság fenntartását és az MI-vel segített munkáért való felelősségvállalást.
+• Platformtudatosság: A különböző MI rendszerek képességeinek és korlátainak megértése.
+• Létrehozási gondosság: Átgondoltan dönteni arról, hogy mely MI rendszereket használja és hogyan lép velük kapcsolatba
+• Feladatdelegálás: A munka átgondolt elosztása az emberek és az MI között, hogy kihasználják mindkettő erősségeit.
+• Átláthatósági gondosság: Őszintének lenni az MI szerepéről a munkájában mindenkivel, akinek tudnia kell róla
+Leírás
+Hatékony kommunikáció az MI rendszerekkel. Magában foglalja a kimenetek egyértelmű meghatározását, az MI folyamatok irányítását és a kívánt MI viselkedések és interakciók meghatározását.
+• Telepítési gondosság: Felelősséget vállalni az Ön által használt vagy megosztott kimenetek ellenőrzéséért és igazolásáért
+Ember-MI interakciós módok
+• Termékleírás: Annak meghatározása, hogy mit szeretne a kimenetek, a formátum, a közönség és a stílus tekintetében
+Automatizálás
+• Folyamatleírás: Annak meghatározása, hogy az MI hogyan közelítse meg a kérését, például lépésről lépésre történő utasítások megadásával az MI számára, hogy kövesse azokat
+Amikor az MI konkrét feladatokat hajt végre konkrét emberi utasítások alapján. Az ember meghatározza, mit kell tenni, és az MI végrehajtja azt.
+• Teljesítményleírás: Az MI viselkedésének meghatározása az együttműködés során, például hogy tömör vagy részletes, kihívó vagy támogató legyen
+Bővítés
+Amikor az emberek és az MI gondolkodó partnerként működnek együtt a feladatok elvégzésében. Iteratív oda-vissza folyamatot foglal magában, ahol mindkettő hozzájárul az eredményhez.
+Ügynökség
+Amikor az emberek úgy konfigurálják az MI-t, hogy önállóan dolgozzon a nevükben, beleértve más emberekkel vagy MI-vel való interakciót is. Az ember határozza meg az MI tudását és viselkedési mintáit, nem pedig a pontos cselekvéseket.
+Copyright 2025 Rick Dakan, Joseph Feller és Anthropic. Kiadva a CC BY-NC-SA 4.0 licenc alatt.
+MI technikai koncepciók Érvelési vagy gondolkodási modellek
+Az MI modellek típusai, amelyeket kifejezetten arra terveztek, hogy lépésről lépésre gondolkodjanak a komplex problémákon, jobb képességeket mutatva a logikai érvelést igénylő feladatokban.
+Generatív MI
+MI rendszerek, amelyek új tartalmat (szöveget, képeket, kódot stb.) tudnak létrehozni, nem csak a meglévő adatokat elemzik.
+Hőmérséklet
+Nagy nyelvi modellek (LLM-ek) Egy beállítás, amely szabályozza, hogy egy MI válaszai mennyire véletlenszerűek.
+Hatalmas mennyiségű szöveges adaton betanított generatív MI rendszerek, hogy megértsék és generálják az emberi nyelvet.
+A "magasabb" hőmérséklet változatosabb és kreatívabb kimeneteket eredményez (gondoljon a forrásban lévő víz buborékolására), míg az "alacsonyabb" hőmérséklet kiszámíthatóbb és fókuszáltabb válaszokat eredményez (gondoljon a jégkristályokra).
+Claude
+Az Anthropic nagy nyelvi modelljeinek családja.
+Visszakereséssel bővített generálás (RAG)
+Paraméterek
+Egy technika, amely külső tudásforrásokhoz kapcsolja az MI modelleket a pontosság javítása és a hallucinációk csökkentése érdekében.
+Az MI modellen belüli matematikai értékek, amelyek meghatározzák, hogyan dolgozza fel az információkat és hogyan kapcsolja össze a nyelv különböző részeit. A modern LLM-ek milliárdnyi paramétert tartalmaznak.
+Torzítás
+Az MI kimeneteiben megjelenő szisztematikus minták, amelyek tisztességtelenül előnyben részesítenek vagy hátrányosan érintenek bizonyos csoportokat vagy nézőpontokat, gyakran tükrözve a betanítási adatokban lévő mintákat.
+Neurális hálózatok
+Számítástechnikai rendszerek, amelyek hasonlóak, de különböznek a biológiai agyaktól. Összekapcsolt csomópontokból állnak, amelyek rétegekbe vannak szervezve, és a betanítás során mintákat tanulnak az adatokból.
+Prompttervezési koncepciók
+Transzformátor architektúra
+Prompt
+Az áttörést jelentő MI tervezés 2017-ből, amely lehetővé teszi az LLM-ek számára, hogy párhuzamosan dolgozzák fel a szövegszekvenciákat, miközben figyelnek a szavak közötti kapcsolatokra a hosszú szövegrészekben.
+Az MI modellnek adott bemenet, beleértve az utasításokat és a megosztott dokumentumokat.
+Skálázási törvények
+Prompttervezés
+Ahogy az MI modellek nagyobbak lettek és több adaton, több számítási teljesítménnyel tanították őket, teljesítményük következetes minták szerint javult. Ez egy empirikus megfigyelés. Talán a legérdekesebb, hogy bizonyos skálaküszöbökön teljesen új képességek jelenhetnek meg, amelyeket nem programoztak be kifejezetten.
+A hatékony promptok tervezésének gyakorlata az MI rendszerek számára a kívánt kimenetek előállítása érdekében. A tiszta kommunikációt ötvözi az MI-specifikus technikákkal.
+Gondolatmenet-promptolás
+Előképzés
+Az MI ösztönzése arra, hogy lépésről lépésre dolgozzon végig egy problémát, a komplex feladatokat kisebb lépésekre bontva, amelyek segítik az MI-t a gondolkodásmenet követésében és jobb eredmények elérésében.
+A kezdeti betanítási fázis, ahol az MI modellek hatalmas mennyiségű szöveges adatból tanulnak mintákat, fejlesztve a nyelv és a tudás alapvető megértését.
+Néhány példás tanulás (n-shot prompting)
+Finomhangolás
+Az MI tanítása a kívánt bemenet-kimenet minta példáinak bemutatásával. Az "N" a megadott példák számára utal. Segít a modellnek megérteni, mit szeretne, hosszadalmas magyarázatok nélkül.
+További betanítás az előképzés után, ahol a modellek megtanulnak utasításokat követni, segítőkész válaszokat adni és elkerülni a káros tartalmak generálását.
+Szerep- vagy perszóna-meghatározás
+Kontextusablak
+Egy adott karakter, szakértelem vagy kommunikációs stílus meghatározása az MI számára, amelyet a válaszadás során alkalmaz. Lehet általános szerepektől ("beszéljen UX tervezési szakértőként") egészen konkrét perszónákig ("magyarázza el ezt úgy, ahogy Richard Feynman tenné").
+Az az információs mennyiség, amelyet egy MI egyszerre figyelembe vehet, beleértve a beszélgetési előzményeket és a megosztott dokumentumokat. Maximális korlátja van, amely modellenként változik.
+Kimeneti korlátok/kimeneti formázás
+Hallucináció
+A promptban egyértelműen meghatározni a kívánt formátumot, hosszúságot, szerkezetet vagy más jellemzőket az MI válaszában, hogy pontosan azt kapja, amire szüksége van.
+Olyan hiba, amikor az MI magabiztosan állít valamit, ami hihetőnek hangzik, de valójában helytelen.
+Gondolkodj először megközelítés
+Tudásbázis-határidő
+Kifejezetten arra kérni az MI-t, hogy dolgozza végig az érvelési folyamatát, mielőtt végleges választ adna, ami alaposabb és jobban átgondolt válaszokhoz vezethet.
+Az a pont, amely után egy MI modellnek nincs beépített tudása a világról, attól függően, hogy mikor tanították be.
+Copyright 2025 Rick Dakan, Joseph Feller és Anthropic. Kiadva a CC BY-NC-SA 4.0 licenc alatt.
