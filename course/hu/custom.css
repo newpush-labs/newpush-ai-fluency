@@ -544,3 +544,79 @@ html {
         color: #666;
     }
 }
+
+/* --- Abbreviation Tooltips --- */
+
+/* Style for abbreviation elements */
+.md-typeset abbr {
+    position: relative;
+    cursor: help;
+    text-decoration: none;
+    border-bottom: 1px dotted #2980b9;
+    color: #2980b9;
+    font-weight: 500;
+}
+
+.md-typeset abbr:hover {
+    color: #1967C0;
+    border-bottom-color: #1967C0;
+}
+
+/* Ensure native browser tooltips work */
+.md-typeset abbr[title] {
+    cursor: help;
+}
+
+/* Alternative CSS tooltip implementation for better reliability */
+.md-typeset abbr[title]:hover::after {
+    content: attr(title);
+    position: absolute;
+    bottom: 100%;
+    left: 50%;
+    transform: translateX(-50%);
+    background-color: #2c3e50;
+    color: #ffffff;
+    padding: 0.5rem 0.75rem;
+    border-radius: 6px;
+    font-size: 0.875rem;
+    font-weight: 400;
+    line-height: 1.4;
+    white-space: nowrap;
+    max-width: 300px;
+    white-space: normal;
+    text-align: center;
+    z-index: 1000;
+    box-shadow: 0 2px 8px rgba(0,0,0,0.15);
+    pointer-events: none;
+    margin-bottom: 0.5rem;
+}
+
+.md-typeset abbr[title]:hover::before {
+    content: "";
+    position: absolute;
+    bottom: 100%;
+    left: 50%;
+    transform: translateX(-50%);
+    border: 5px solid transparent;
+    border-top-color: #2c3e50;
+    z-index: 1001;
+    margin-bottom: -0.25rem;
+}
+
+/* Responsive tooltip adjustments */
+@media screen and (max-width: 76.1875em) {
+    .md-typeset abbr[title]:hover::after {
+        position: fixed;
+        bottom: auto;
+        top: 50%;
+        left: 1rem;
+        right: 1rem;
+        transform: translateY(-50%);
+        max-width: none;
+        width: auto;
+    }
+    
+    .md-typeset abbr[title]:hover::before {
+        display: none;
+    }
+}

@@ -10,6 +10,13 @@ theme:
     code: Roboto Mono
 extra_css:
   - custom.css
+markdown_extensions:
+  - abbr
+  - pymdownx.snippets:
+      auto_append:
+        - includes/abbreviations.md
+watch:
+  - includes
 nav:
   - 'Kezdőlap': 'index.md'
   - 'Bevezetés az MI Fluenciába': '01-bevezetes-az-mi-fluenciaba.md'
