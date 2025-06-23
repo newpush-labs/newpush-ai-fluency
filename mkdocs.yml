@@ -14,7 +14,7 @@ extra_javascript:
   - js/abbreviations-first-only.js
 markdown_extensions:
   - abbr
-  - admonitions
+  - admonition
   - pymdownx.snippets:
       auto_append:
         - includes/abbreviations.md

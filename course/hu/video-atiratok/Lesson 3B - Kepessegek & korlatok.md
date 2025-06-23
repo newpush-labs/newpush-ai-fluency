@@ -1,4 +1,4 @@
-# 3B. Kepessegek & korlatok
+# 3B. Képességek & korlátok
 
 !!! info "Videó átirat"
     Ez a videó teljes átirata. Használd a böngésző kereső funkcióját (Ctrl+F / Cmd+F) specifikus fogalmak kereséséhez.

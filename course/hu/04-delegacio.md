@@ -20,6 +20,8 @@ Ez a videó az MI Fluencia első alapkompetenciáját, a Delegálást vizsgálja
 
 Hangsúlyozzuk továbbá, hogy a hatékony Delegáláshoz mind a szakterületi tudás, mind az MI képességeinek megértése szükséges – és miért elengedhetetlen a hatékony és eredményes munkavégzéshez az MI rendszerekkel.
 
+[Videó átirat megtekintése](video-atiratok/Lesson 4 - Kozelebbrol a Delegaciorol.md)
+
 #### Kulcsfontosságú gondolatok
 
 *   A delegálás arról szól, hogy megfontolt döntéseket hozunk arról, milyen munkát végezzünk el mi magunk, mit végezzünk együtt az MI-vel, vagy mit hagyjunk az MI-re önállóan, és hogyan osszuk el ezeket a feladatokat.

@@ -15,6 +15,8 @@ A lecke végére képes leszel:
 
 Ez a videó gyakorlati készségeket vizsgál a hatékony promptok készítéséhez, amikor olyan MI asszisztensekkel dolgozunk, mint a Claude. Elmagyarázzuk, hogy a prompt-tervezés egyszerűen a hatékony utasítások tervezésének gyakorlata az MI rendszerek számára, ötvözve az ismerős emberi kommunikációs elveket az MI-specifikus megfontolásokkal. Bemutatunk hat alapvető technikát: kontextus adása, kívánt kimenetekre vonatkozó példák mutatása, korlátok meghatározása, összetett feladatok lépésekre bontása, az MI megkérése, hogy először gondolkodjon, és az MI szerepének vagy hangnemének meghatározása. Megosztunk hibaelhárítási stratégiákat is arra az esetre, ha a válaszok nem teljesen megfelelőek, és kiemeljük a sikeres interakciókhoz vezető gyakori mintákat.
 
+[Videó átirat megtekintése](video-atiratok/Lesson 7 - Hatekony promptolasi technikak (Melymerules).md)
+
 #### Kulcsfontosságú gondolatok
 
 *   A hatékony promptolás ötvözi a tiszta kommunikációs elveket az MI-specifikus technikákkal.

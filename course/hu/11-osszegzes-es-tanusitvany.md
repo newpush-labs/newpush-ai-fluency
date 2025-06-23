@@ -13,6 +13,8 @@ A lecke végére képes leszel:
 
 Ez a befejező videó visszatekint az MI Fluencia Keretrendszerre, és összefoglalja a kurzus során vizsgált kulcsfontosságú fogalmakat. Átismételjük a négy alapkompetenciát (a 4D-t): Delegálás (annak eldöntése, milyen munkát végezzünk MI-vel, és mit önállóan), Leírás (hatékony kommunikáció az MI-vel), Megkülönböztetés (az MI kimeneteinek és viselkedésének értékelése), és Gondosság (a felelősségteljes MI együttműködés biztosítása). Hangsúlyozzuk, hogy ezek a kompetenciák az MI-vel való interakció mindhárom fő módjában (Automatizálás, Kiterjesztés és Ügynökség) alkalmazhatók, és hogy a fluencia gyakorlással fejlődik, nem egyik napról a másikra. Befejezésül emlékeztetünk arra, hogy az MI rendszerek erőteljesek, de nem varázslatos megoldások; csak annyira hasznosak és biztonságosak, amennyire mi tesszük őket az átgondolt elköteleződésünkkel.
 
+[Videó átirat megtekintése](video-atiratok/Lesson 11 - Befejezes.md)
+
 #### Kulcsfontosságú gondolatok
 
 *   Az MI Fluencia a négy alapkompetencia szándékos gyakorlásával fejlődik.

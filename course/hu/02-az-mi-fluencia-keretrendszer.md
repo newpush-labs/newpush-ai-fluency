@@ -18,6 +18,8 @@ Ez a videó azt vizsgálja, mit is jelent valójában "fluensnek" lenni az MI-ve
 *   **Kiterjesztés:** Te és az MI kreatív gondolkodási és feladat-végrehajtási partnerként működtök együtt.
 *   **Ügynökség:** Úgy konfigurálod az MI-t, hogy önállóan dolgozzon a nevedben, meghatározva annak tudását és viselkedési mintáit, nem csupán konkrét feladatokat adva neki.
 
+[Videó átirat megtekintése](video-atiratok/Lesson 2A - Miert van szuksegunk MI Fluenciara.md)
+
 ## Videó: A 4D Keretrendszer
 
 *(5 perc)*
@@ -30,6 +32,8 @@ Ez a videó bemutatja az MI Fluencia négy alapkompetenciáját, vagyis a "4D"-t
 *   **Gondosság:** Annak biztosítása, hogy felelősségteljesen lépjünk interakcióba az MI-vel.
 
 Felfedezzük, hogyan működnek együtt ezek a kompetenciák az MI-vel való különböző kapcsolattartási módokban, és miért készít fel ezeknek a készségeknek a fejlesztése az MI evolúciójának következő lépéseire.
+
+[Videó átirat megtekintése](video-atiratok/Lesson 2B - A 4D Keretrendszer.md)
 
 #### Kulcsfontosságú gondolatok
 

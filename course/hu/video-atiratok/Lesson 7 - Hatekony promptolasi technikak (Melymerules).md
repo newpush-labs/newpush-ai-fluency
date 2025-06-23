@@ -1,4 +1,4 @@
-# 7. Hatekony promptolasi technikak (Melymerules)
+# 7. Hatékony promptolási technikák (Mélymérülés)
 
 !!! info "Videó átirat"
     Ez a videó teljes átirata. Használd a böngésző kereső funkcióját (Ctrl+F / Cmd+F) specifikus fogalmak kereséséhez.

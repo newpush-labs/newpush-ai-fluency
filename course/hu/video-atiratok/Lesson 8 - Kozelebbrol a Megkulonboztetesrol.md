@@ -1,4 +1,4 @@
-# 8. Kozelebbrol a Megkulonboztetesrol
+# 8. Közelebbről a Megkülönböztetésről
 
 !!! info "Videó átirat"
     Ez a videó teljes átirata. Használd a böngésző kereső funkcióját (Ctrl+F / Cmd+F) specifikus fogalmak kereséséhez.

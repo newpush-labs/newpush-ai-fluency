@@ -20,6 +20,8 @@ Ez a videó az MI Fluencia Leírás kompetenciáját vizsgálja – a hatékony 
 
 Hangsúlyozzuk továbbá, hogy az MI nem tud olvasni a gondolataidban, és az eredményeid minősége gyakran attól függ, mennyire világosan fogalmazod meg az igényeidet, a preferált megközelítést és a kívánt interakciós stílust.
 
+[Videó átirat megtekintése](video-atiratok/Lesson 6 - Kozelebbrol a Leirasrol.md)
+
 #### Kulcsfontosságú gondolatok
 
 *   A Leírás arról szól, hogy úgy kommunikáljunk az MI-vel, hogy az egy produktív együttműködési környezetet teremtsen.

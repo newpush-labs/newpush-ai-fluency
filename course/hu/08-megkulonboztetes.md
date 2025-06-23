@@ -20,6 +20,8 @@ Ez a videó a Megkülönböztetést, az MI Fluencia azon kompetenciáját vizsg�
 
 Ezek a készségek együttesen segítenek biztosítani, hogy az MI együttműködésedet átgondolt emberi ítélőképesség vezérelje.
 
+[Videó átirat megtekintése](video-atiratok/Lesson 8 - Kozelebbrol a Megkulonboztetesrol.md)
+
 #### Kulcsfontosságú gondolatok
 
 *   A Megkülönböztetés az a képességed, hogy átgondoltan értékeld, mit termel az MI, hogyan termeli azt, és hogyan viselkedik.

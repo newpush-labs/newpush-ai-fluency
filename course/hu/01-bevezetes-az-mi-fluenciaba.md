@@ -27,6 +27,8 @@ A kurzus elvégzése után lehetőséged lesz egy záróvizsgát tenni és telje
 
 Üdvözlünk! Ez a videó bemutatja a kurzus fókuszát: a mesterséges intelligenciával való érdemi együttműködés fejlesztését, nem csupán az MI technológia megismerését. Elmagyarázzuk, hogy a kurzus azt vizsgálja, hogyan építsünk egy tartós keretrendszert az MI rendszerekkel való munkához, amely túlmutat az egyszerű és ideiglenes tippeken és trükkökön. Elmagyarázzuk, mit értünk MI Fluencia alatt: ez az a képesség, hogy hatékonyan, eredményesen, etikusan és biztonságosan tudjunk együttműködni az MI-vel. Felvázoljuk a kurzus felépítését is, amely lefedi az MI Fluencia alapkompetenciáit (a 4D-t), valamint a kulcsfontosságú technikai és gyakorlati koncepciókat. A kurzus végére rendelkezel majd egy keretrendszerrel a megfontolt MI interakcióhoz, magabiztossággal abban, hogy mikor és hogyan dolgozz hatékonyan az MI-vel, gyakorlati együttműködési készségekkel, és képességgel az MI-asszisztált munka felelősségteljes értékelésére és terjesztésére.
 
+[Videó átirat megtekintése](video-atiratok/Lesson 1 - Introduction to AI Fluency.md)
+
 #### Kulcsfontosságú gondolatok
 
 *   Ez a kurzus az ember-MI együttműködésre fókuszál, nem csak az MI mint technológia megértésére

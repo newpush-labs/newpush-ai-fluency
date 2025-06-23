@@ -1,4 +1,4 @@
-# 6. Kozelebbrol a Leirasrol
+# 6. Közelebbről a Leírásról
 
 !!! info "Videó átirat"
     Ez a videó teljes átirata. Használd a böngésző kereső funkcióját (Ctrl+F / Cmd+F) specifikus fogalmak kereséséhez.

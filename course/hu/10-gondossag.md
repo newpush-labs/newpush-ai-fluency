@@ -20,6 +20,8 @@ Ez a videó a Gondosságot, az MI Fluencia azon kompetenciáját vizsgálja, ame
 
 Hangsúlyozzuk, hogy a különböző kontextusoknak eltérő elvárásaik lehetnek, de mindannyiunknak felelőssége megérteni és megfelelni ezeknek az elvárásoknak.
 
+[Videó átirat megtekintése](video-atiratok/Lesson 10 - Kozelebbrol a Gondossagrol.md)
+
 #### Kulcsfontosságú gondolatok
 
 *   A Gondosság arról szól, hogy felelősséget vállalunk az MI együttműködéseinkért.

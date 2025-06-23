@@ -14,11 +14,15 @@ A lecke végére képes leszel:
 
 Ez a videó bemutatja a generatív MI fogalmát, arra összpontosítva, hogy képes új tartalmat létrehozni, nem csupán a már meglévőt elemezni. Végigvesszük, hogyan működnek a nagy nyelvi modellek (LLM-ek), mint például a Claude, és azt a technológiai utat, amely lehetővé tette őket, az algoritmikus áttörésektől, mint a transzformer architektúra, a hatalmas képzési adathalmazokig és a nagy teljesítményű számítástechnikáig. Azt is elmagyarázzuk, hogyan tanulnak ezek a rendszerek előképzés és finomhangolás révén, és megvitatunk olyan fogalmakat, mint a kontextusablakok és a felmerülő képességek.
 
+[Videó átirat megtekintése](video-atiratok/Lesson 3A - Mi a generativ MI (Melymerules).md)
+
 ## Videó: Képességek és korlátok
 
 *(7 perc)*
 
 Ez a videó azt vizsgálja, hogy a generatív MI mit tud és mit nem tud hatékonyan elvégezni jelenleg. Kiemeljük a generatív MI sokoldalúságát a nyelvi feladatokban, a beszélgetés folyamatosságának fenntartására való képességét, és azt a kapacitását, hogy további képzés nélkül váltson a különböző feladatok között. Foglalkozunk a korlátokkal is, beleértve a tudás-leállási dátumokat, a hallucinációkat (ténybelileg helytelen kimenetek), a kontextusablak korlátait és az érvelési kihívásokat. Hangsúlyozzuk, hogy a terület gyorsan fejlődik, és elmagyarázzuk, hogy a leghatékonyabb alkalmazások az emberek és az MI kiegészítő erősségeit hozzák össze.
+
+[Videó átirat megtekintése](video-atiratok/Lesson 3B - Kepessegek & korlatok.md)
 
 #### Kulcsfontosságú gondolatok
 
