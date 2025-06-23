@@ -101,12 +101,6 @@ A Gondosság kompetencia tömör összefoglalója, amelyet gyors referenciaként
 
 [Letöltés](pamphlets/4d-gondossag.pdf)
 
-### Gondosság összefoglaló dia (16:9)
-
-A Gondosság kompetencia tömör összefoglalója, amelyet prezentációkban használhatsz.
-
-[Letöltés](pamphlets/4d-gondossag.pdf)
-
 #### Mi következik?
 
 A kurzus utolsó leckéjében reflektálunk arra, amit az MI Fluenciáról tanultunk, és hogyan működnek együtt ezek a kompetenciák. Újra áttekintjük a keretrendszert mint egészet, és megbeszéljük, hogyan folytathatod ezeknek a készségeknek a fejlesztését, ahogy az MI képességei fejlődnek. A befejezés segít szintetizálni a megszerzett tudást és gyakorlatot, és alkalmazni azt a jövőbeli MI együttműködésekben.

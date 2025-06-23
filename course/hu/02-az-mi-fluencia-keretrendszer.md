@@ -128,11 +128,6 @@ Gyors vizuális referencia a négy alapkompetenciához (a "4D"-hez) és a kulcsf
 
 [Letöltés](pamphlets/mi-fluencia-keretrendszer-reszletes.pdf)
 
-### Az MI Fluencia Keretrendszer összefoglalója (16:9)
-
-Gyors vizuális referencia a négy alapkompetenciához (a "4D"-hez) és a kulcsfogalmakhoz. Prezentációkban használható.
-
-[Letöltés](pamphlets/mi-fluencia-keretrendszer.pdf)
 
 ### Keretrendszer gyakorlati összefoglaló
 

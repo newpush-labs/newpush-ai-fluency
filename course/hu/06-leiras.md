@@ -60,12 +60,6 @@ A Leírás kompetencia tömör összefoglalója, amelyet gyors referenciaként k
 
 [Letöltés](pamphlets/4d-leiras.pdf)
 
-### Leírás összefoglaló dia (16:9)
-
-A Leírás kompetencia tömör összefoglalója, amelyet prezentációkban használhatsz.
-
-[Letöltés](pamphlets/4d-leiras.pdf)
-
 #### Mi következik?
 
 Következik a Mélymerülés 2: "Hatékony Promptolási Technikák", amely egy gyakorlati technikai lecke, ami közvetlenül a Leírásról tanultakra épül, konkrét technikákat, példákat és keretrendszereket nyújtva a hatékony promptok készítéséhez különböző forgatókönyvekben. A mélymerülés során fejlesztett promptolási készségeid jelentősen javítják majd a képességedet, hogy kommunikálj az MI rendszerekkel és javítsd az együttműködéseid minőségét, most és a jövőben is.

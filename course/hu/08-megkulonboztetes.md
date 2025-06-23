@@ -107,12 +107,6 @@ A Megkülönböztetés kompetencia tömör összefoglalója, amelyet gyors refer
 
 [Letöltés](pamphlets/4d-megkulonboztetes.pdf)
 
-### Megkülönböztetés összefoglaló dia (16:9)
-
-A Megkülönböztetés kompetencia tömör összefoglalója, amelyet prezentációkban használhatsz.
-
-[Letöltés](pamphlets/4d-megkulonboztetes-reszletes.pdf)
-
 #### Mi következik?
 
 A következő leckében lehetőséged lesz mind a Leírás, mind a Megkülönböztetés készségeidet alkalmazni az átfogó kurzusprojekt-eden. Gyakorlatba ülteted, amit a hatékony MI-kommunikációról és a kimeneteinek kritikus értékeléséről tanultál, hogy olyan eredményeket hozz létre, amelyek kihasználják mind az emberi, mind az MI képességek legjavát.

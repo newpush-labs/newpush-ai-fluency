@@ -61,12 +61,6 @@ A Delegálás kompetencia tömör összefoglalója, amelyet gyors referenciakén
 
 [Letöltés](pamphlets/4d-delegacio.pdf)
 
-### Delegálás összefoglaló dia (16:9)
-
-A Delegálás kompetencia tömör összefoglalója, amelyet prezentációkban használhatsz.
-
-[Letöltés](pamphlets/4d-delegacio.pdf)
-
 #### **Mi következik?**
 
 A következő leckében a Delegálásról tanultakat egy többlépéses projektre fogod alkalmazni, amelyen a kurzus hátralévő részében dolgozni fogsz. Választasz egy téged érdeklő projektet, meghatározod a víziódat, felbontod feladatokra, és létrehozol egy delegálási tervet, amely stratégiailag osztja el a munkát közted és az MI között (hasonlóan ahhoz, amit ebben a leckében gyakoroltál). Ez a projekt gyakorlati vászonként szolgál majd az összes MI Fluencia kompetencia alkalmazásához, ahogy haladsz a kurzussal.

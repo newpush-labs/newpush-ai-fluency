@@ -621,3 +621,28 @@ html {
         display: none;
     }
 }
+
+/* --- First-occurrence-only abbreviation styling --- */
+
+/* Style subsequent occurrences as plain text */
+.md-typeset abbr.abbr-subsequent {
+    cursor: default !important;
+    text-decoration: none !important;
+    border-bottom: none !important;
+    color: inherit !important;
+    font-weight: inherit !important;
+}
+
+/* Ensure first occurrences maintain proper styling */
+.md-typeset abbr.abbr-first {
+    cursor: help;
+    text-decoration: none;
+    border-bottom: 1px dotted #2980b9;
+    color: #2980b9;
+    font-weight: 500;
+}
+
+.md-typeset abbr.abbr-first:hover {
+    color: #1967C0;
+    border-bottom-color: #1967C0;
+}
