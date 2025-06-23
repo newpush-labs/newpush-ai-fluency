@@ -39,37 +39,37 @@ Az alábbi füzetek letölthetők PDF formátumban. Ezek a dokumentumok a kurzus
 
 ## 🎥 Videó Átiratok
 
-Az összes kurzusvideó átirata elérhető szöveges formátumban. Ezek segítenek a visszakeresésben és a tananyag ismétlésében:
+Az összes kurzusvideó átirata elérhető markdown formátumban a könnyebb olvashatóság érdekében. Ezek segítenek a visszakeresésben és a tananyag ismétlésében:
 
 ### Bevezető leckék
 
-- [1. lecke - Bevezetés az MI Fluenciába](videos/Lesson%201%20-%20Introduction%20to%20AI%20Fluency.txt)
-- [2A. lecke - Miért van szükségünk MI Fluenciára?](videos/Lesson%202A%20-%20Miert%20van%20szuksegunk%20MI%20Fluenciara.txt)
-- [2B. lecke - A 4D Keretrendszer](videos/Lesson%202B%20-%20A%204D%20Keretrendszer.txt)
+- [1. lecke - Bevezetés az MI Fluenciába](video-atiratok/Lesson%201%20-%20Introduction%20to%20AI%20Fluency.md)
+- [2A. lecke - Miért van szükségünk MI Fluenciára?](video-atiratok/Lesson%202A%20-%20Miert%20van%20szuksegunk%20MI%20Fluenciara.md)
+- [2B. lecke - A 4D Keretrendszer](video-atiratok/Lesson%202B%20-%20A%204D%20Keretrendszer.md)
 
 ### Mélymerülések
 
-- [3A. lecke - Mi a generatív MI? (Mélymerülés)](videos/Lesson%203A%20-%20Mi%20a%20generativ%20MI%20(Melymerules).txt)
-- [3B. lecke - Képességek és korlátok](videos/Lesson%203B%20-%20Kepessegek%20%26%20korlatok.txt)
-- [7. lecke - Hatékony promptolási technikák (Mélymerülés)](videos/Lesson%207%20-%20Hatekony%20promptolasi%20technikak%20(Melymerules).txt)
+- [3A. lecke - Mi a generatív MI? (Mélymerülés)](video-atiratok/Lesson%203A%20-%20Mi%20a%20generativ%20MI%20(Melymerules).md)
+- [3B. lecke - Képességek és korlátok](video-atiratok/Lesson%203B%20-%20Kepessegek%20%26%20korlatok.md)
+- [7. lecke - Hatékony promptolási technikák (Mélymerülés)](video-atiratok/Lesson%207%20-%20Hatekony%20promptolasi%20technikak%20(Melymerules).md)
 
 ### A 4D-k részletesen
 
-- [4. lecke - Közelebbről a Delegációról](videos/Lesson%204%20-%20Kozelebbrol%20a%20Delegaciorol.txt)
-- [6. lecke - Közelebbről a Leírásról](videos/Lesson%206%20-%20Kozelebbrol%20a%20Leirasrol.txt)
-- [8. lecke - Közelebbről a Megkülönböztetésről](videos/Lesson%208%20-%20Kozelebbrol%20a%20Megkulonboztetesrol.txt)
-- [10. lecke - Közelebbről a Gondosságról](videos/Lesson%2010%20-%20Kozelebbrol%20a%20Gondossagrol.txt)
+- [4. lecke - Közelebbről a Delegációról](video-atiratok/Lesson%204%20-%20Kozelebbrol%20a%20Delegaciorol.md)
+- [6. lecke - Közelebbről a Leírásról](video-atiratok/Lesson%206%20-%20Kozelebbrol%20a%20Leirasrol.md)
+- [8. lecke - Közelebbről a Megkülönböztetésről](video-atiratok/Lesson%208%20-%20Kozelebbrol%20a%20Megkulonboztetesrol.md)
+- [10. lecke - Közelebbről a Gondosságról](video-atiratok/Lesson%2010%20-%20Kozelebbrol%20a%20Gondossagrol.md)
 
 ### Befejezés
 
-- [11. lecke - Befejezés](videos/Lesson%2011%20-%20Befejezes.txt)
+- [11. lecke - Befejezés](video-atiratok/Lesson%2011%20-%20Befejezes.md)
 
 ---
 
 ## 💡 Használati tippek
 
 - **PDF-ek megtekintése**: A füzetek nyomtathatók és offline használatra alkalmasak
-- **Videó átiratok**: Használd a böngésző kereső funkcióját (Ctrl+F / Cmd+F) specifikus fogalmak kereséséhez
+- **Videó átiratok**: A markdown formátumú átiratok könnyebben olvashatók, használd a böngésző kereső funkcióját (Ctrl+F / Cmd+F) specifikus fogalmak kereséséhez
 - **Referencia anyagok**: A "Kulcsfogalmak Csalólap" tökéletes gyors áttekintéshez és ismétléshez
 
 Az anyagok folyamatosan frissülnek, ezért érdemes időnként visszatérni erre az oldalra az újdonságokért.

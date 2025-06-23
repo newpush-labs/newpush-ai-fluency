@@ -157,7 +157,7 @@ a:hover {
 /* Lead paragraphs (first paragraph after headings) */
 .md-typeset h1 + p,
 .md-typeset h2 + p {
-    font-size: 1.125rem;
+    font-size: 1rem;
     color: #34495e;
     margin-bottom: 1.5rem;
 }
