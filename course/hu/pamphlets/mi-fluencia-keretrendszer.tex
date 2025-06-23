@@ -1,0 +1,187 @@
+\documentclass[a4paper, 11pt]{article}
+
+% PACKAGES
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage{graphicx}
+\usepackage{amsmath}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage[hungarian]{babel}
+\usepackage{geometry}
+\usepackage{xcolor}
+\usepackage{hyperref}
+\usepackage{titlesec}
+\usepackage{enumitem}
+\usepackage{fancyhdr}
+\usepackage{tcolorbox}
+\usepackage{listings}
+\usepackage[scaled=0.9]{roboto-mono}
+
+% GEOMETRY - Match the MkDocs content width
+\geometry{
+ a4paper,
+ total={160mm,240mm},
+ left=25mm,
+ top=25mm,
+ bottom=25mm,
+}
+
+% COLORS - Match MkDocs theme colors
+\definecolor{primary}{HTML}{1967C0}
+\definecolor{secondary}{HTML}{1976D2}
+\definecolor{accent}{HTML}{2980B9}
+\definecolor{textcolor}{HTML}{2C3E50}
+\definecolor{lightgray}{HTML}{F8F9FA}
+\definecolor{codebg}{HTML}{F1F3F4}
+\definecolor{codetext}{HTML}{D73502}
+
+% FONT SETUP - Use Roboto to match MkDocs
+\renewcommand{\familydefault}{\sfdefault}
+\usepackage[default]{roboto}
+
+% TYPOGRAPHY - Match MkDocs hierarchy
+\titleformat{\section}
+  {\fontsize{18}{22}\bfseries\color{primary}}
+  {\thesection}{1em}{}
+  [\vspace{0.5em}{\color{lightgray}\titlerule[2pt]}]
+
+\titleformat{\subsection}
+  {\fontsize{15}{18}\bfseries\color{secondary}}
+  {\thesubsection}{1em}{}
+  [\vspace{0.3em}{\color{lightgray}\titlerule[1pt]}]
+
+\titleformat{\subsubsection}
+  {\fontsize{12}{15}\bfseries\color{textcolor}}
+  {\thesubsubsection}{1em}{}
+
+% SPACING - Match MkDocs spacing
+\setlength{\parindent}{0pt}
+\setlength{\parskip}{1.25em}
+\renewcommand{\baselinestretch}{1.6}
+
+% LIST STYLING - Match MkDocs custom lists
+\setlist[itemize]{
+  leftmargin=1.5em,
+  itemsep=0.75em,
+  parsep=0pt,
+  topsep=0.5em
+}
+
+\setlist[enumerate]{
+  leftmargin=2em,
+  itemsep=0.75em,
+  parsep=0pt,
+  topsep=0.5em
+}
+
+% HYPERLINKS - Match MkDocs link styling
+\hypersetup{
+  colorlinks=true,
+  linkcolor=accent,
+  urlcolor=accent,
+  citecolor=accent,
+  filecolor=accent
+}
+
+% HEADER/FOOTER - Clean professional look
+\pagestyle{fancy}
+\fancyhf{}
+\fancyhead[L]{\small\color{textcolor}Az MI Fluencia Keretrendszer}
+\fancyhead[R]{\small\color{textcolor}Az MI Fluencia Keretrendszer}
+\fancyfoot[C]{\small\color{textcolor}\thepage}
+\renewcommand{\headrulewidth}{0.5pt}
+\renewcommand{\footrulewidth}{0pt}
+
+% TITLE STYLING - Match MkDocs h1 styling
+\makeatletter
+\renewcommand{\maketitle}{
+  \begin{center}
+    {\fontsize{22}{26}\bfseries\color{primary}\@title}
+    \vspace{0.5em}
+    {\color{lightgray}\titlerule[3pt]}
+    \vspace{1.5em}
+  \end{center}
+}
+\makeatother
+
+% BLOCKQUOTE STYLING - Match MkDocs enhanced blockquotes
+\newenvironment{customquote}
+  {\begin{tcolorbox}[
+    enhanced,
+    left=4mm,
+    right=4mm,
+    top=4mm,
+    bottom=4mm,
+    colback=lightgray,
+    colframe=accent,
+    leftrule=4mm,
+    rightrule=0mm,
+    toprule=0mm,
+    bottomrule=0mm,
+    arc=2mm,
+    outer arc=2mm
+  ]}
+  {\end{tcolorbox}}
+
+% CODE STYLING - Match MkDocs code blocks
+\lstset{
+  basicstyle=\small\ttfamily\color{textcolor},
+  backgroundcolor=\color{codebg},
+  frame=single,
+  frameround=tttt,
+  framerule=0.5pt,
+  rulecolor=\color{lightgray},
+  breaklines=true,
+  breakatwhitespace=true,
+  showspaces=false,
+  showstringspaces=false,
+  numbers=none,
+  xleftmargin=8pt,
+  xrightmargin=8pt,
+  aboveskip=8pt,
+  belowskip=8pt
+}
+
+% INLINE CODE - Match MkDocs inline code
+\newcommand{\inlinecode}[1]{%
+  \colorbox{codebg}{\texttt{\color{codetext}#1}}%
+}
+
+% DOCUMENT
+\begin{document}
+
+% --- TITLE ---
+\title{Az MI Fluencia Keretrendszer}
+\author{Rick Dakan, Joseph Feller, and Anthropic}
+\date{2025}
+\maketitle
+
+% --- CONTENT ---
+\section*{Négy egymással összefüggő kompetencia, amelyek biztosítják, hogy az MI-vel való interakcióink hatékonyak, eredményesek, etikusak és biztonságosak legyenek.}
+
+\subsection*{A 4D Keretrendszer}
+\begin{description}
+    \item[Delegálás] Célok kitűzése és annak eldöntése, hogy mikor és hogyan vonjuk be az MI-t.
+    \item[Leírás] A célok hatékony leírása a hasznos MI viselkedések és kimenetek előidézéséhez.
+    \item[Megkülönböztetés] Az MI kimeneteinek és viselkedésének hasznosságának pontos felmérése.
+    \item[Gondosság] Felelősségvállalás azért, amit az MI-vel teszünk és ahogyan tesszük.
+\end{description}
+
+\section*{Kulcsfogalmak}
+\begin{description}
+    \item[Az MI interakció három módja]
+    \begin{itemize}
+        \item \textbf{Automatizálás:} Az MI konkrét feladatokat hajt végre emberi utasítások alapján.
+        \item \textbf{Bővítés:} Az emberek és az MI gondolkodó partnerként működnek együtt a feladatok elvégzésében.
+        \item \textbf{Ügynökség:} Az emberek úgy konfigurálják az MI-t, hogy önállóan végezzen jövőbeli feladatokat a nevükben.
+    \end{itemize}
+    \item[MI Fluencia] Az MI Fluencia azt jelenti, hogy az MI rendszerekkel olyan módon lépünk kapcsolatba, amely hatékony, eredményes, etikus és biztonságos. A delegálás, leírás, megkülönböztetés és gondosság kompetenciák egymással összefüggő készségek, ismeretek, belátások, értékek gyűjteményei.
+\end{description}
+
+\vspace{\fill}
+\begin{center}
+    \small{Copyright 2025 Rick Dakan, Joseph Feller és Anthropic. Kiadva a CC BY-NC-SA 4.0 licenc alatt.}
+\end{center}
+
+\end{document}
