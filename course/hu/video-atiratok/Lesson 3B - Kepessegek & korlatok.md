@@ -3,119 +3,206 @@
 !!! info "Videó átirat"
     Ez a videó teljes átirata. Használd a böngésző kereső funkcióját (Ctrl+F / Cmd+F) specifikus fogalmak kereséséhez.
 
+## Bevezetés
+
 Most vizsgáljuk meg, mit tud és mit nem tud a generatív MI.
 
 Az LLM-ekre, mint például a Claude-ra összpontosítva, gondolj erre úgy, mint egy új kolléga megismerésére.
 
 Az erősségeik és korlátaik megértése segít hatékonyabban együttműködni.
 
+## Generatív MI képességei
+
 Kezdjük azzal, amiben ezek a rendszerek rendkívül jók.
 
 Lehet, hogy meglepődsz, milyen sokoldalúak a modern nyelvi modellek.
 
-Olyan nyelvi készségekkel rendelkeznek, amelyek néhány évvel ezelőtt még lehetetlennek tűntek.
+### Nyelvkezelési készségek
 
-Hangodhoz illő e-maileket fogalmaznak, hosszú jelentéseket sűrítenek világos összefoglalókba, nyelvek között fordítanak, és összetett témákat magyaráznak el számtalan területen, a mikrobiológiától a marketingstratégiáig.
+Olyan nyelvi készségekkel rendelkeznek, amelyek néhány évvel ezelőtt még lehetetlennek tűntek:
+
+- **Hangodhoz illő e-maileket** fogalmaznak
+- **Hosszú jelentéseket sűrítenek** világos összefoglalókba
+- **Nyelvek között fordítanak**
+- **Összetett témákat magyaráznak el** számtalan területen, a mikrobiológiától a marketingstratégiáig
+
+### Feladatváltási képesség
 
 Különösen figyelemre méltó, hogy ezek a modellek hogyan tudnak váltani a különböző feladatok között anélkül, hogy további képzésre lenne szükségük.
 
-Ugyanaz a rendszer, amely segít verset írni vagy ötleteket gyűjteni a születésnapi bulidhoz, megfordulhat, és segíthet megérteni a kvantumszámítástechnika fogalmait, vagy elemezni a negyedéves üzleti trendeket, mindezt egyszerű beszélgetésen keresztül.
+**Példa:** Ugyanaz a rendszer, amely segít verset írni vagy ötleteket gyűjteni a születésnapi bulidhoz, megfordulhat, és segíthet megérteni a kvantumszámítástechnika fogalmait, vagy elemezni a negyedéves üzleti trendeket, mindezt egyszerű beszélgetésen keresztül.
+
+### Kontextuális emlékezet
 
 Ezek a modellek képesek fenntartani a beszélgetés fonalát is, emlékezve arra, amit korábban megbeszéltetek, és építve rá.
 
-Ha például futólag megemlíted a projekt határidejét, és később a beszélgetés során visszautalsz rá, az MI általában megérti, miről beszélsz, akárcsak egy emberi beszélgetőpartner.
+**Példa:** Ha futólag megemlíted a projekt határidejét, és később a beszélgetés során visszautalsz rá, az MI általában megérti, miről beszélsz, akárcsak egy emberi beszélgetőpartner.
 
-Sok modern LLM már képes a saját tudásán túlra is nyúlni külső eszközökhöz és információforrásokhoz csatlakozva, lehetővé téve számukra, hogy a weben keressenek, fájlokat dolgozzanak fel, vagy akár más alkalmazásokat használjanak képességeik bővítésére.
+### Külső eszközök integrációja
+
+Sok modern LLM már képes a saját tudásán túlra is nyúlni külső eszközökhöz és információforrásokhoz csatlakozva, lehetővé téve számukra, hogy:
+
+- A weben keressenek
+- Fájlokat dolgozzanak fel
+- Más alkalmazásokat használjanak képességeik bővítésére
 
 Ez drámaian kibővíti, miben tudnak segíteni.
 
-Azonban, mint minden technológiának, az LLM-eknek is vannak bizonyos korlátaim.
+## Generatív MI korlátai
 
-Először is, az MI modelleket a képzési adataik korlátozzák.
+Azonban, mint minden technológiának, az LLM-eknek is vannak bizonyos korlátaik.
 
-Az LLM-eknek van egy tudás-leállási dátumuk a képzésük időpontja alapján, amely után nincs veleszületett tudásuk a világról.
+### 1. Képzési adatok korlátai
 
-Például egy 2024. novemberi leállási dátumú modell azt jelenti, hogy nem képezték 2024. november utáni adatokon.
+#### Tudás-leállási dátum
 
-Képzelj el valakit, aki egy adott időpontban internet-hozzáférés nélkül vonult el egy elvonulásra.
+Az LLM-eknek van egy **tudás-leállási dátumuk** a képzésük időpontja alapján, amely után nincs veleszületett tudásuk a világról.
 
-Nem tudna azokról az eseményekről, amelyek távozása után történtek.
+**Példa:** Egy 2024. novemberi leállási dátumú modell azt jelenti, hogy nem képezték 2024. november utáni adatokon.
+
+#### Analógia
+
+Képzelj el valakit, aki egy adott időpontban internet-hozzáférés nélkül vonult el egy elvonulásra. Nem tudna azokról az eseményekről, amelyek távozása után történtek.
 
 A modelleknek olyan eszközökre van szükségük, mint a webes keresés, hogy többet tudjanak meg a legújabb fejleményekről.
 
-Ezenkívül a képzési folyamat nem ellenőrzi a képzési adatok minden tényét.
+### 2. Hallucinációk
 
-Ez azt jelenti, hogy a modellek néha megtanulhatnak és reprodukálhatnak pontatlanságokat, amelyek a képzési adataikban jelen voltak.
+#### Mi a hallucinäció?
 
-Hibákat is elkövethetnek, amikor megpróbálják összerakni a tanult információkat.
+A képzési folyamat nem ellenőrzi a képzési adatok minden tényét. Ez azt jelenti, hogy a modellek:
 
-Ez vezet ahhoz, amit gyakran hallucinációnak neveznek.
+- Néha megtanulhatnak és reprodukálhatnak pontatlanságokat
+- Hibákat elkövethetnek, amikor megpróbálják összerakni a tanult információkat
 
-Az MI magabiztosan állít valamit, ami hihetőnek hangzik, de valójában helytelen.
+Ez vezet ahhoz, amit gyakran **hallucinációnak** neveznek.
+
+!!! warning "Hallucinációk"
+    Az MI magabiztosan állít valamit, ami hihetőnek hangzik, de valójában helytelen.
+
+#### Különbség a keresőmotoroktól
 
 A keresőmotorokkal ellentétben, amelyek egyszerűen meglévő dokumentumokat kérnek le, az LLM-ek statisztikai mintázatok alapján generálnak válaszokat, néha hallucinációkat produkálva.
 
-Képzelj el egy barátot, aki teljes magabiztossággal mesél el egy történetet, csak hogy a részletek teljesen rosszak legyenek.
+**Analógia:** Képzelj el egy barátot, aki teljes magabiztossággal mesél el egy történetet, csak hogy a részletek teljesen rosszak legyenek. Az MI néha ilyen lehet.
 
-Az MI néha ilyen lehet.
+### 3. Kontextusablak korlátai
 
-Egy másik fontos korlát a korábban említett kontextusablak.
+#### Mi a kontextusablak?
 
 Emlékeztetőül, ez az az információmennyiség, amelyet egy MI egyszerre képes feldolgozni.
 
-Minden LLM-nek van egy maximális korlátja annak, hogy mennyi információt tud figyelembe venni egyetlen interakció során.
+- Minden LLM-nek van egy **maximális korlátja** annak, hogy mennyi információt tud figyelembe venni egyetlen interakció során
+- Ha ezt a korlátot túllépik, az MI nem fog tudni emlékezni az ablakon kívül eső információkra, általában első be, első ki alapon
 
-Ha ezt a korlátot túllépik, az MI nem fog tudni emlékezni az ablakon kívül eső információkra, általában első be, első ki alapon.
+#### Gyakorlati hatások
 
-A modell méretétől függően ez korlátozhatja a nagy dokumentumok feldolgozására vagy a teljes beszélgetés megjegyzésére való képességét.
+A modell méretétől függően ez korlátozhatja:
+- A nagy dokumentumok feldolgozására való képességét
+- A teljes beszélgetés megjegyzésére való képességét
 
-Továbbá, a hagyományos szoftverekkel ellentétben, amelyek azonos bemenetekre azonos kimeneteket produkálnak, az LLM-ek alapértelmezés szerint némileg kiszámíthatatlanok, más néven nem-determinisztikusak.
+### 4. Nem-determinisztikus viselkedés
 
-Kérdezd meg ugyanazt a kérdést kétszer, és minden alkalommal kissé eltérő válaszokat kaphatsz.
+#### Mit jelent ez?
 
-Ez a változékonyság abból adódik, ahogyan ezek a modellek szöveget generálnak.
+A hagyományos szoftverekkel ellentétben, amelyek azonos bemenetekre azonos kimeneteket produkálnak, az LLM-ek alapértelmezés szerint némileg **kiszámíthatatlanok** (nem-determinisztikusak).
 
-Valószínűségi döntéseket hoznak arról, hogy milyen szöveg következzen a képzési adataikban lévő mintázatok és bizonyos, a fejlesztők által módosítható beállítások alapján.
+**Példa:** Kérdezd meg ugyanazt a kérdést kétszer, és minden alkalommal kissé eltérő válaszokat kaphatsz.
 
-Ez a kreatív változékonyság nagyszerű lehet ötleteléshez és változatos ötletek generálásához, de tudatosságot igényel, amikor a következetesség vagy a pontosság kritikus.
+#### Miért van ez?
 
-Néhány LLM felület beállításokat is kínál ennek a véletlenszerűségnek a szabályozására, amikor szükséges.
+Ez a változékonyság abból adódik, ahogyan ezek a modellek szöveget generálnak:
 
-Ezt a beállítást gyakran hőmérsékletnek nevezik.
+- Valószínűségi döntéseket hoznak arról, hogy milyen szöveg következzen
+- A képzési adataikban lévő mintázatok alapján
+- Bizonyos, a fejlesztők által módosítható beállítások alapján
 
-Ezenkívül, bár ezek a modellek gyorsan fejlődnek, történelmileg korlátokat mutattak a komplex érvelési feladatokban, különösen a több lépést igénylő matematikai vagy logikai problémákban.
+#### Előnyök és hátrányok
 
-A jó hír az, hogy az újabb, lépésről lépésre történő gondolkodásra tervezett érvelési vagy kiterjesztett gondolkodású modellek erős előrehaladást mutatnak ezeken a területeken.
+**Előnyök:**
+- Ez a kreatív változékonyság nagyszerű lehet ötleteléshez és változatos ötletek generálásához
 
-És végül, bár a Claude-hoz hasonló modellek már hozzáférhetnek külső eszközökhöz, még mindig hiányozhat a hozzáférésük bizonyos adatforrásokhoz vagy specializált eszközökhöz, amelyek bizonyos feladatokhoz szükségesek lennének.
+**Hátrányok:**
+- Tudatosságot igényel, amikor a következetesség vagy a pontosság kritikus
 
-Olyan, mintha egy briliáns kollégád lenne, aki nem fér hozzá a céged belső adatbázisához.
+#### Hőmérséklet beállítás
 
-A segítségnyújtási képessége korlátozott lesz, bármilyen okos is.
+Néhány LLM felület beállításokat is kínál ennek a véletlenszerűségnek a szabályozására, amikor szükséges. Ezt a beállítást gyakran **hőmérsékletnek** nevezik.
+
+### 5. Érvelési korlátok
+
+#### Történelmi gyengeségek
+
+Bár ezek a modellek gyorsan fejlődnek, történelmileg korlátokat mutattak a komplex érvelési feladatokban, különösen a több lépést igénylő matematikai vagy logikai problémákban.
+
+#### Pozitív fejlődés
+
+!!! success "Jó hírek"
+    Az újabb, lépésről lépésre történő gondolkodásra tervezett érvelési vagy kiterjesztett gondolkodású modellek erős előrehaladást mutatnak ezeken a területeken.
+
+### 6. Eszköz- és adathozzáférési korlátok
+
+#### Jelenlegi helyzet
+
+Bár a Claude-hoz hasonló modellek már hozzáférhetnek külső eszközökhöz, még mindig hiányozhat a hozzáférésük bizonyos adatforrásokhoz vagy specializált eszközökhöz, amelyek bizonyos feladatokhoz szükségesek lennének.
+
+#### Analógia
+
+Olyan, mintha egy briliáns kollégád lenne, aki nem fér hozzá a céged belső adatbázisához. A segítségnyújtási képessége korlátozott lesz, bármilyen okos is.
+
+#### Következmény
 
 Ha egy modellnek nincs hozzáférése egy adathoz vagy eszközhöz, amely egy kérdés megválaszolásához szükséges, akkor nem meglepő, hogy nem fog tudni segíteni a kérdés megválaszolásában.
 
-A generatív MI területe gyorsan fejlődik.
+## A jövő irányai
 
-A kutatók azon dolgoznak, hogy kezeljék a jelenlegi korlátokat olyan technikákkal, mint a visszakereséssel kiegészített generálás, amely a modelleket külső tudás- és adatforrásokhoz kapcsolja, valamint bővítik az eszközhasználati képességüket és javítják az érvelési képességeiket.
+### Folyamatos fejlődés
 
-Ennek ellenére valószínű, hogy néhány korlát a belátható jövőben is megmarad, még ha nem is tudjuk pontosan, mik lesznek ezek a korlátok.
+A generatív MI területe gyorsan fejlődik. A kutatók azon dolgoznak, hogy kezeljék a jelenlegi korlátokat olyan technikákkal, mint:
 
-Annak megértése, hogy az MI mit tud vagy mit nem tud, elengedhetetlen az MI fluenciához, és segít meghatározni, mikor és hogyan lehet a leghatékonyabban beépíteni ezeket a rendszereket a munkádba és a mindennapi életedbe.
+- **Visszakereséssel kiegészített generálás** - amely a modelleket külső tudás- és adatforrásokhoz kapcsolja
+- **Eszközhasználati képességek bővítése**
+- **Érvelési képességek javítása**
 
-A leghatékonyabb alkalmazások az emberek és az MI kiegészítő erősségeit fogják kihasználni.
+### Realisztikus elvárások
 
-Mi kritikai gondolkodást, ítélőképességet, kreativitást és etikai felügyeletet hozunk, amit az MI nehezen tudna reprodukálni.
+!!! note "Fontos megjegyzés"
+    Ennek ellenére valószínű, hogy néhány korlát a belátható jövőben is megmarad, még ha nem is tudjuk pontosan, mik lesznek ezek a korlátok.
 
-Míg az MI sebességet, méretarányt, mintafelismerést és hatalmas mennyiségű információ feldolgozására való képességet kínál.
+## MI fluencia és a korlátok megértése
+
+### Miért fontos?
+
+Annak megértése, hogy az MI mit tud vagy mit nem tud:
+- **Elengedhetetlen az MI fluenciához**
+- **Segít meghatározni**, mikor és hogyan lehet a leghatékonyabban beépíteni ezeket a rendszereket a munkádba és a mindennapi életedbe
+
+### Kiegészítő erősségek
+
+A leghatékonyabb alkalmazások az emberek és az MI kiegészítő erősségeit fogják kihasználni:
+
+#### Emberi erősségek
+- Kritikai gondolkodás
+- Ítélőképesség
+- Kreativitás
+- Etikai felügyelet
+
+#### MI erősségek
+- Sebesség
+- Méretarány
+- Mintafelismerés
+- Hatalmas mennyiségű információ feldolgozására való képesség
+
+### Folyamatos fejlődés
 
 Ezek a kiegészítő erősségek fejlődni fognak, ahogy a technológia fejlődik.
 
-Ezért olyan értékes a folyamatos tanulás és kísérletezés.
+**Ezért olyan értékes a folyamatos tanulás és kísérletezés.** Segítenek:
+- Naprakésznek maradni ezekkel a változásokkal
+- Új lehetőségeket felfedezni
 
-Segítenek naprakésznek maradni ezekkel a változásokkal, és új lehetőségeket felfedezni.
+## Gyakorlati tapasztalat
 
 A kurzus során ezekben a gyakorlatokban lehetőséged lesz első kézből felfedezni ezeket a fogalmakat a Claude-dal folytatott beszélgetéseken keresztül.
 
 Ez a közvetlen tapasztalat segít intuitív érzéket fejleszteni arról, hogy a generatív MI mit tud, mit nem tud, és hogyan lehet a legjobban dolgozni vele.
-
