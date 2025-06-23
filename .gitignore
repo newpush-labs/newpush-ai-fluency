@@ -59,3 +59,4 @@ ENV/
 *.tmp
 *.temp
 *~
+.cache/plugin/privacy/assets/external

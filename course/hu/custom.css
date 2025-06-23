@@ -204,6 +204,7 @@ a:hover {
 .md-typeset ol {
     counter-reset: ol-counter;
     padding-left: 0;
+    list-style: none;
 }
 
 .md-typeset ol > li {

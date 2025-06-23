@@ -1,5 +1,11 @@
 site_name: Az MI Fluencia Keretrendszer
 docs_dir: course/hu
+repo_url: https://github.com/newpush-labs/newpush-ai-fluency
+repo_name: newpush-labs/newpush-ai-fluency
+edit_uri: edit/main/course/hu/
+copyright: >
+  Copyright &copy; 2024 NewPush Labs –
+  <a href="#__consent">Cookie beállítások módosítása</a>
 theme:
   name: material
   language: hu
@@ -8,10 +14,17 @@ theme:
   font:
     text: Roboto
     code: Roboto Mono
+  icon:
+    repo: fontawesome/brands/github
+    edit: material/pencil
+  features:
+    - content.action.edit
 extra_css:
   - custom.css
 extra_javascript:
   - js/abbreviations-first-only.js
+plugins:
+  - privacy
 markdown_extensions:
   - abbr
   - admonition
@@ -20,6 +33,21 @@ markdown_extensions:
         - includes/abbreviations.md
         - includes/feedback-hu.md
         - includes/license-hu.md
+extra:
+  consent:
+    title: Cookie hozzájárulás
+    description: >-
+      Sütiket (cookie-kat) használunk az ismételt látogatások és beállítások felismerésére,
+      valamint dokumentációnk hatékonyságának mérésére és annak megállapítására, hogy a
+      felhasználók megtalálják-e amit keresnek. Az Ön hozzájárulásával segít nekünk
+      dokumentációnk jobbá tételében.
+    actions:
+      - accept
+      - manage
+    cookies:
+      github:
+        name: GitHub
+        checked: true
 watch:
   - includes
 nav:
