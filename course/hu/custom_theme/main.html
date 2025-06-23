@@ -6,5 +6,140 @@
       .md-grid {
         max-width: none;
       }
+      
+      /* Custom footer styles */
+      .md-footer {
+        background-color: var(--md-primary-fg-color);
+        color: white;
+      }
+      
+      .md-footer__inner {
+        padding: 2rem 0;
+      }
+      
+      /* Hide the Material for MkDocs generator text */
+      .md-footer-meta {
+        display: none;
+      }
+      
+      .custom-footer {
+        border-top: 1px solid var(--md-default-fg-color--lightest);
+        padding-top: 2rem;
+        margin-top: 2rem;
+      }
+      
+      .custom-footer__content {
+        display: grid;
+        grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+        gap: 2rem;
+        margin-bottom: 2rem;
+      }
+      
+      .custom-footer__section h4 {
+        margin-bottom: 1rem;
+        color: var(--md-primary-fg-color);
+        font-weight: 600;
+      }
+      
+      .custom-footer__section p {
+        margin-bottom: 0.5rem;
+        line-height: 1.6;
+      }
+      
+      .custom-footer__section a {
+        color: var(--md-accent-fg-color);
+        text-decoration: none;
+      }
+      
+      .custom-footer__section a:hover {
+        text-decoration: underline;
+      }
+      
+      .custom-footer__bottom {
+        border-top: 1px solid var(--md-default-fg-color--lightest);
+        padding-top: 1rem;
+        text-align: center;
+        font-size: 0.9rem;
+        color: var(--md-default-fg-color--light);
+      }
+      
+      .custom-footer__links {
+        display: flex;
+        justify-content: center;
+        gap: 2rem;
+        margin-bottom: 1rem;
+        flex-wrap: wrap;
+      }
+      
+      .custom-footer__links a {
+        color: var(--md-default-fg-color--light);
+        text-decoration: none;
+        font-size: 0.9rem;
+      }
+      
+      .custom-footer__links a:hover {
+        color: var(--md-accent-fg-color);
+        text-decoration: underline;
+      }
+      
+      @media screen and (max-width: 768px) {
+        .custom-footer__content {
+          grid-template-columns: 1fr;
+          gap: 1.5rem;
+        }
+        
+        .custom-footer__links {
+          flex-direction: column;
+          gap: 1rem;
+        }
+      }
     </style>
+{% endblock %}
+
+{% block footer %}
+  {{ super() }}
+  <div class="custom-footer">
+    <div class="md-grid md-typeset">
+      <div class="custom-footer__content">
+        <div class="custom-footer__section">
+          <h4>Az MI Fluencia Keretrendszer</h4>
+          <p>Egy átfogó kurzus a mesterséges intelligencia hatékony használatához a mindennapi életben és munkában.</p>
+          <p>A kurzus célja, hogy praktikus ismereteket nyújtson az MI eszközök megfelelő alkalmazásához.</p>
+        </div>
+        
+        <div class="custom-footer__section">
+          <h4>Hasznos linkek</h4>
+          <p><a href="{{ config.repo_url }}" target="_blank" rel="noopener">GitHub Repository</a></p>
+          <p><a href="https://docs.google.com/forms/d/e/1FAIpQLSdEDQvOwm8OylDCpRQCVp4sRyNdNfFrTfnB7_vgd62dXj6C5Q/viewform" target="_blank" rel="noopener">Visszajelzés</a></p>
+          <p><a href="kurzus-anyagok/">Letölthető anyagok</a></p>
+        </div>
+        
+        <div class="custom-footer__section">
+          <h4>NewPush Labs</h4>
+          <p>Innovatív megoldások a digitális transzformációhoz.</p>
+          <p><a href="mailto:info@newpush.com">info@newpush.com</a></p>
+          <p>Készítette: Rácz László és a NewPush Europe Kft.</p>
+        </div>
+        
+        <div class="custom-footer__section">
+          <h4>Licenc és köszönetnyilvánítás</h4>
+          <p>Ez a kurzus az Anthropic eredeti "AI Fluency" kurzusának magyar adaptációja.</p>
+          <p><a href="https://creativecommons.org/licenses/by-nc-sa/4.0/" target="_blank" rel="noopener">CC BY-NC-SA 4.0</a> licenc alatt.</p>
+          <p>Copyright 2025 Rick Dakan, Joseph Feller, and Anthropic.</p>
+        </div>
+      </div>
+      
+      <div class="custom-footer__bottom">
+        <div class="custom-footer__links">
+          <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/" target="_blank" rel="noopener">Licenc</a>
+          <a href="{{ config.repo_url }}" target="_blank" rel="noopener">Forráskód</a>
+          <a href="https://docs.google.com/forms/d/e/1FAIpQLSdEDQvOwm8OylDCpRQCVp4sRyNdNfFrTfnB7_vgd62dXj6C5Q/viewform" target="_blank" rel="noopener">Kapcsolat</a>
+        </div>
+        <div>
+          <p>&copy; 2025 NewPush Labs. Minden jog fenntartva.</p>
+          <p>Magyar lokalizáció a <a href="https://www.anthropic.com/" target="_blank" rel="noopener">Anthropic</a> eredeti kurzusa alapján. Az oldal <a href="https://squidfunk.github.io/mkdocs-material/" target="_blank" rel="noopener">Material for MkDocs</a> használatával készült.</p>
+        </div>
+      </div>
+    </div>
+  </div>
 {% endblock %}

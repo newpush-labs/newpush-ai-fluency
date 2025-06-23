@@ -19,6 +19,7 @@ theme:
     edit: material/pencil
   features:
     - content.action.edit
+  custom_dir: course/hu/custom_theme
 extra_css:
   - custom.css
 extra_javascript:
@@ -31,8 +32,6 @@ markdown_extensions:
   - pymdownx.snippets:
       auto_append:
         - includes/abbreviations.md
-        - includes/feedback-hu.md
-        - includes/license-hu.md
 extra:
   consent:
     title: Cookie hozzájárulás
