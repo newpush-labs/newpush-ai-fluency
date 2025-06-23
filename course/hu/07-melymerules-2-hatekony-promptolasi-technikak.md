@@ -47,7 +47,7 @@ Ha szeretnéd, térj vissza az előző lecke "Rossz Prompt Átalakítása" gyako
 
 Nézd meg, hogyan alakíthatók át a homályos promptok hatékonyakká ezekkel a valós példákkal.
 
-[Letöltés](../pamphlets/62df988c101af71291b06843b63d39bbd600bed8.pdf)
+[Letöltés](pamphlets/6-technika-hatekony-prompttervezes.pdf)
 
 #### Mi következik?
 

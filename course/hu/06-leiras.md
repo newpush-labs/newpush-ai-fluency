@@ -58,13 +58,13 @@ Mielőtt továbbmennél, szánj egy percet a gondolkodásra:
 
 A Leírás kompetencia tömör összefoglalója, amelyet gyors referenciaként kinyomtathatsz.
 
-[Letöltés](../pamphlets/8216cbfffb3c07053f2a959868a89087949f4779.pdf)
+[Letöltés](pamphlets/4d-leiras.pdf)
 
 ### Leírás összefoglaló dia (16:9)
 
 A Leírás kompetencia tömör összefoglalója, amelyet prezentációkban használhatsz.
 
-[Letöltés](../pamphlets/0178870bcc05e62ab4fd7191e6d52543e2dbc258.pdf)
+[Letöltés](pamphlets/4d-leiras.pdf)
 
 #### Mi következik?
 

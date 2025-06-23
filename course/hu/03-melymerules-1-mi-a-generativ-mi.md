@@ -47,7 +47,7 @@ Mielőtt továbbmennél, szánj egy percet a gondolkodásra:
 
 Gyors referencia útmutató a generatív MI megértéséhez.
 
-[Letöltés](../pamphlets/9b7dd41bd7919c70a506e4ec600a60d3268d1dfb.pdf)
+[Letöltés](pamphlets/generativ-mi-megertese.pdf)
 
 #### **Mi következik?**
 

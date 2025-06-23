@@ -59,13 +59,13 @@ Mielőtt továbbmennél, szánj egy percet a gondolkodásra:
 
 A Delegálás kompetencia tömör összefoglalója, amelyet gyors referenciaként kinyomtathatsz.
 
-[Letöltés](../pamphlets/470922b2df5bc274a529eb542295192488db49d0.pdf)
+[Letöltés](pamphlets/4d-delegacio.pdf)
 
 ### Delegálás összefoglaló dia (16:9)
 
 A Delegálás kompetencia tömör összefoglalója, amelyet prezentációkban használhatsz.
 
-[Letöltés](../pamphlets/735241c3b91699d1f4aa9422c081ae4eeefc2586.pdf)
+[Letöltés](pamphlets/4d-delegacio.pdf)
 
 #### **Mi következik?**
 

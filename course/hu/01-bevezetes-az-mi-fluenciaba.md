@@ -65,7 +65,7 @@ Mielőtt továbbmennél, szánj egy percet arra, hogy elgondolkodj a saját MI-v
 
 Egy referencia a kulcsfontosságú kifejezésekhez, közérthető nyelven megfogalmazva. Nem kell memorizálni; csak használd, amikor szükséged van rá.
 
-[Letöltés](../pamphlets/4396730ed190e691a3712cf2fd6bfe35509deca2.pdf)
+[Letöltés](pamphlets/mi-fluencia-kulcsfogalmak-csalolap.pdf)
 
 Profi tipp: ezt a dokumentumot és más kurzusanyagokat is megoszthatod a Claude-dal, hogy segítséget kérj konkrét koncepciók felfedezéséhez.
 
