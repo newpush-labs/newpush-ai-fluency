@@ -71,14 +71,5 @@ A Delegálás kompetencia tömör összefoglalója, amelyet prezentációkban ha
 
 A következő leckében a Delegálásról tanultakat egy többlépéses projektre fogod alkalmazni, amelyen a kurzus hátralévő részében dolgozni fogsz. Választasz egy téged érdeklő projektet, meghatározod a víziódat, felbontod feladatokra, és létrehozol egy delegálási tervet, amely stratégiailag osztja el a munkát közted és az MI között (hasonlóan ahhoz, amit ebben a leckében gyakoroltál). Ez a projekt gyakorlati vászonként szolgál majd az összes MI Fluencia kompetencia alkalmazásához, ahogy haladsz a kurzussal.
 
-#### Visszajelzés a kurzusról
 
-Ahogy haladsz a kurzussal, örömmel vennénk, ha megosztanád velünk, hogyan használod a tanultakat az életedben, a munkádban vagy a tanulmányaidban, valamint bármilyen visszajelzésedet. [Oszd meg a visszajelzésed itt.](https://forms.gle/zURqLbVgdDqGhHZk9)
 
-#### Köszönetnyilvánítás és licenc
-
-*Copyright 2025 Rick Dakan, Joseph Feller, and Anthropic. A CC BY-NC-SA 4.0 licenc alatt kiadva.*
-
-*Ez a kurzus a Dakan és Feller által kidolgozott The AI Fluency Framework-en alapul.*
-
-*Részben támogatta az Ír Felsőoktatási Hatóság a Tanítás és Tanulás Fejlesztésének Nemzeti Fórumán keresztül.*

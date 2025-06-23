@@ -15,9 +15,7 @@ A lecke végére képes leszel:
 *   Azonosítani a rád váró tanulási út kulcsfontosságú elemeit
 *   Világos elvárásokat megfogalmazni azzal kapcsolatban, hogy mit nyerhetsz a kurzusból
 
-#### Visszajelzés a kurzusról
 
-Ahogy haladsz a kurzussal, örömmel vennénk, ha megosztanád velünk, hogyan használod a tanultakat az életedben, a munkádban vagy a tanulmányaidban, valamint bármilyen visszajelzésedet. [Oszd meg a visszajelzésed itt.](https://forms.gle/zURqLbVgdDqGhHZk9)
 
 #### Teljesítési igazolás
 
@@ -75,10 +73,3 @@ Profi tipp: ezt a dokumentumot és más kurzusanyagokat is megoszthatod a Claude
 
 A következő leckében azt vizsgáljuk meg, miért számít az MI Fluencia a mai gyorsan fejlődő technológiai környezetben. Bemutatjuk az MI-vel való együttműködés három kulcsfontosságú módját (Automatizálás, Kiterjesztés és Ügynökség), valamint az MI Fluencia Keretrendszer alapkompetenciáit: a Delegálás, Leírás, Megkülönböztetés és Gondosság "4D"-jét.
 
-#### Köszönetnyilvánítás és licenc
-
-*Copyright 2025 Rick Dakan, Joseph Feller, and Anthropic. A CC BY-NC-SA 4.0 licenc alatt kiadva.*
-
-*Ez a kurzus a Dakan és Feller által kidolgozott The AI Fluency Framework-en alapul.*
-
-*Részben támogatta az Ír Felsőoktatási Hatóság a Tanítás és Tanulás Fejlesztésének Nemzeti Fórumán keresztül.*

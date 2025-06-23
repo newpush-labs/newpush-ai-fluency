@@ -144,14 +144,5 @@ Az MI Fluencia Keretrendszer kulcsfogalmainak tömör összefoglalója.
 
 A következő lecke, a Mélymerülés 1: "Mi a Generatív MI?" egy kétrészes technikai lecke, amely elmagyarázza a modern MI alapvető működését, hogyan különbözik a korábbi technológiáktól, valamint jelenlegi képességeit és korlátait. Ez a tudás értékes kontextust biztosít a 4D-hez, és különösen megerősíti a Delegálási kompetenciádat.
 
-#### Visszajelzés a kurzusról
 
-Ahogy haladsz a kurzussal, örömmel vennénk, ha megosztanád velünk, hogyan használod a tanultakat az életedben, a munkádban vagy a tanulmányaidban, valamint bármilyen visszajelzésedet. [Oszd meg a visszajelzésed itt.](https://forms.gle/zURqLbVgdDqGhHZk9)
 
-#### Köszönetnyilvánítás és licenc
-
-*Copyright 2025 Rick Dakan, Joseph Feller, and Anthropic. A CC BY-NC-SA 4.0 licenc alatt kiadva.*
-
-*Ez a kurzus a Dakan és Feller által kidolgozott The AI Fluency Framework-en alapul.*
-
-*Részben támogatta az Ír Felsőoktatási Hatóság a Tanítás és Tanulás Fejlesztésének Nemzeti Fórumán keresztül.*

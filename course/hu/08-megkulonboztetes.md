@@ -117,14 +117,5 @@ A Megkülönböztetés kompetencia tömör összefoglalója, amelyet prezentáci
 
 A következő leckében lehetőséged lesz mind a Leírás, mind a Megkülönböztetés készségeidet alkalmazni az átfogó kurzusprojekt-eden. Gyakorlatba ülteted, amit a hatékony MI-kommunikációról és a kimeneteinek kritikus értékeléséről tanultál, hogy olyan eredményeket hozz létre, amelyek kihasználják mind az emberi, mind az MI képességek legjavát.
 
-#### Visszajelzés a kurzusról
 
-Ahogy haladsz a kurzussal, örömmel vennénk, ha megosztanád velünk, hogyan használod a tanultakat az életedben, a munkádban vagy a tanulmányaidban, valamint bármilyen visszajelzésedet. [Oszd meg a visszajelzésed itt.](https://forms.gle/zURqLbVgdDqGhHZk9)
 
-#### Köszönetnyilvánítás és licenc
-
-*Copyright 2025 Rick Dakan, Joseph Feller, and Anthropic. A CC BY-NC-SA 4.0 licenc alatt kiadva.*
-
-*Ez a kurzus a Dakan és Feller által kidolgozott The AI Fluency Framework-en alapul.*
-
-*Részben támogatta az Ír Felsőoktatási Hatóság a Tanítás és Tanulás Fejlesztésének Nemzeti Fórumán keresztül.*

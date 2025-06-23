@@ -70,14 +70,5 @@ A Leírás kompetencia tömör összefoglalója, amelyet prezentációkban haszn
 
 Következik a Mélymerülés 2: "Hatékony Promptolási Technikák", amely egy gyakorlati technikai lecke, ami közvetlenül a Leírásról tanultakra épül, konkrét technikákat, példákat és keretrendszereket nyújtva a hatékony promptok készítéséhez különböző forgatókönyvekben. A mélymerülés során fejlesztett promptolási készségeid jelentősen javítják majd a képességedet, hogy kommunikálj az MI rendszerekkel és javítsd az együttműködéseid minőségét, most és a jövőben is.
 
-#### Visszajelzés a kurzusról
 
-Ahogy haladsz a kurzussal, örömmel vennénk, ha megosztanád velünk, hogyan használod a tanultakat az életedben, a munkádban vagy a tanulmányaidban, valamint bármilyen visszajelzésedet. [Oszd meg a visszajelzésed itt.](https://forms.gle/zURqLbVgdDqGhHZk9)
 
-#### Köszönetnyilvánítás és licenc
-
-*Copyright 2025 Rick Dakan, Joseph Feller, and Anthropic. A CC BY-NC-SA 4.0 licenc alatt kiadva.*
-
-*Ez a kurzus a Dakan és Feller által kidolgozott The AI Fluency Framework-en alapul.*
-
-*Részben támogatta az Ír Felsőoktatási Hatóság a Tanítás és Tanulás Fejlesztésének Nemzeti Fórumán keresztül.*

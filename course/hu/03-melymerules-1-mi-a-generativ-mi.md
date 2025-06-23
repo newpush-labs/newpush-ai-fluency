@@ -53,14 +53,5 @@ Gyors referencia útmutató a generatív MI megértéséhez.
 
 A következő leckében közelebbről megvizsgáljuk a 4D kompetenciák közül az elsőt: a Delegálást. Megtanulod, hogyan hozz stratégiai döntéseket a munka megosztásáról magad és az MI között, mind a céljaid, mind az MI képességeinek megértése alapján. Ez az alap segít majd megfontoltan eldönteni, mikor és hogyan vond be az MI-t a kreatív és problémamegoldó folyamataidba.
 
-#### Visszajelzés a kurzusról
 
-Ahogy haladsz a kurzussal, örömmel vennénk, ha megosztanád velünk, hogyan használod a tanultakat az életedben, a munkádban vagy a tanulmányaidban, valamint bármilyen visszajelzésedet. [Oszd meg a visszajelzésed itt.](https://forms.gle/zURqLbVgdDqGhHZk9)
 
-#### Köszönetnyilvánítás és licenc
-
-*Copyright 2025 Rick Dakan, Joseph Feller, and Anthropic. A CC BY-NC-SA 4.0 licenc alatt kiadva.*
-
-*Ez a kurzus a Dakan és Feller által kidolgozott The AI Fluency Framework-en alapul.*
-
-*Részben támogatta az Ír Felsőoktatási Hatóság a Tanítás és Tanulás Fejlesztésének Nemzeti Fórumán keresztül.*

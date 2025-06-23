@@ -91,14 +91,5 @@ Folytasd a Leírási és Megkülönböztetési készségeid fejlesztését ezekk
 *   **Koncepciók és korlátok:** Válassz egy összetett koncepciót és nagyon szűk korlátokat, például "magyarázd el csak főzési metaforákkal". Aztán kérd meg a Claude-ot, hogy adjon neked egy kihívást, próbáld ki magad, és hasonlítsátok össze a megközelítéseket.
 *   **Haladó rejtvényfejtés:** Készíts saját logikai vagy szórejtvényeket, majd hívd ki a Claude-ot, hogy oldja meg. Alternatívaként kérd meg a Claude-ot, hogy készítsen rejtvényeket neked. (Ha programozó vagy, a rejtvényeket kicserélheted olyan nehéz problémákra, mint a <https://projecteuler.net/>, és a Claude-dal együtt oldhatod meg őket).
 
-#### Visszajelzés a kurzusról
 
-Örömmel vennénk, ha megosztanád velünk, hogyan használod a kurzus koncepcióit az életedben, a munkádban vagy az óráidon, valamint bármilyen visszajelzésedet. [Oszd meg a visszajelzésed itt.](https://forms.gle/zURqLbVgdDqGhHZk9)
 
-#### Köszönetnyilvánítás és licenc
-
-*Copyright 2025 Rick Dakan, Joseph Feller, and Anthropic. A CC BY-NC-SA 4.0 licenc alatt kiadva.*
-
-*Ez a kurzus a Dakan és Feller által kidolgozott The AI Fluency Framework-en alapul.*
-
-*Részben támogatta az Ír Felsőoktatási Hatóság a Tanítás és Tanulás Fejlesztésének Nemzeti Fórumán keresztül.*

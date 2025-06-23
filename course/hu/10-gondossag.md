@@ -111,14 +111,5 @@ A Gondosság kompetencia tömör összefoglalója, amelyet prezentációkban has
 
 A kurzus utolsó leckéjében reflektálunk arra, amit az MI Fluenciáról tanultunk, és hogyan működnek együtt ezek a kompetenciák. Újra áttekintjük a keretrendszert mint egészet, és megbeszéljük, hogyan folytathatod ezeknek a készségeknek a fejlesztését, ahogy az MI képességei fejlődnek. A befejezés segít szintetizálni a megszerzett tudást és gyakorlatot, és alkalmazni azt a jövőbeli MI együttműködésekben.
 
-#### Visszajelzés a kurzusról
 
-Ahogy haladsz a kurzussal, örömmel vennénk, ha megosztanád velünk, hogyan használod a tanultakat az életedben, a munkádban vagy a tanulmányaidban, valamint bármilyen visszajelzésedet. [Oszd meg a visszajelzésed itt.](https://forms.gle/zURqLbVgdDqGhHZk9)
 
-#### Köszönetnyilvánítás és licenc
-
-*Copyright 2025 Rick Dakan, Joseph Feller, and Anthropic. A CC BY-NC-SA 4.0 licenc alatt kiadva.*
-
-*Ez a kurzus a Dakan és Feller által kidolgozott The AI Fluency Framework-en alapul.*
-
-*Részben támogatta az Ír Felsőoktatási Hatóság a Tanítás és Tanulás Fejlesztésének Nemzeti Fórumán keresztül.*

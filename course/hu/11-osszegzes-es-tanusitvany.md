@@ -76,10 +76,3 @@ Tedd le ezt a záróvizsgát, hogy teszteld az MI Fluenciádat és megkapd a hiv
 
 [Vizsga letétele](https://forms.gle/5w2oKW2nzsK5Macf9)
 
-#### Köszönetnyilvánítás és licenc
-
-*Copyright 2025 Rick Dakan, Joseph Feller, and Anthropic. A CC BY-NC-SA 4.0 licenc alatt kiadva.*
-
-*Ez a kurzus a Dakan és Feller által kidolgozott The AI Fluency Framework-en alapul.*
-
-*Részben támogatta az Ír Felsőoktatási Hatóság a Tanítás és Tanulás Fejlesztésének Nemzeti Fórumán keresztül.*
