@@ -10,6 +10,8 @@ theme:
     code: Roboto Mono
 extra_css:
   - custom.css
+extra_javascript:
+  - js/abbreviations-first-only.js
 markdown_extensions:
   - abbr
   - pymdownx.snippets:
