@@ -47,6 +47,12 @@ extra:
       github:
         name: GitHub
         checked: true
+
+  links:
+    - name: Kapcsolat
+      url: https://www.newpush.com
+    - name: Visszajelzés
+      url: https://docs.google.com/forms/d/e/1FAIpQLSdEDQvOwm8OylDCpRQCVp4sRyNdNfFrTfnB7_vgd62dXj6C5Q/viewform
 watch:
   - includes
 nav:
