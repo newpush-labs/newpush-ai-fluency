@@ -3,119 +3,191 @@
 !!! info "Videó átirat"
     Ez a videó teljes átirata. Használd a böngésző kereső funkcióját (Ctrl+F / Cmd+F) specifikus fogalmak kereséséhez.
 
+## Bevezetés
+
 Ebben a videóban megvizsgáljuk a gondossági kompetenciát az MI fluencia keretrendszeréből.
 
 Ne feledd, az MI fluencia azt jelenti, hogy hatékonyan, eredményesen, etikusan és biztonságosan dolgozunk az MI-vel.
 
-Míg a másik három kompetencia elsősorban a hatékonyságra és az eredményességre összpontosít, a gondosság főként az etikai és biztonsági szempontokra fókuszál, amelyek ugyanolyan kulcsfontosságúak a sikeres MI együttműködéshez.
+## A gondosság szerepe
 
-Lényegében a gondosság arról szól, hogy felelősséget vállalunk az MI interakcióinkért.
+Míg a másik három kompetencia elsősorban a hatékonyságra és az eredményességre összpontosít, a gondosság főként az **etikai és biztonsági szempontokra** fókuszál, amelyek ugyanolyan kulcsfontosságúak a sikeres MI együttműködéshez.
 
-Ez az MI fluencia azon dimenziója, amely biztosítja, hogy az MI rendszerek használata ne csak produktív, hanem szigorú, átlátható és elszámoltatható is legyen.
+### Mi a gondosság?
 
-Ellentétben a többi kompetenciával, amelyek elsősorban az eredmények elérésére összpontosítanak, a gondosság arra kér minket, hogy vegyünk figyelembe tágabb kérdéseket, amelyek mindazonáltal kritikusak az MI együttműködés szempontjából, különösen szakmai környezetben, mint például:
+Lényegében a gondosság arról szól, hogy **felelősséget vállalunk az MI interakcióinkért**.
 
-milyen következményekkel jár ezzel az MI-vel dolgozni?
+Ez az MI fluencia azon dimenziója, amely biztosítja, hogy az MI rendszerek használata ne csak produktív, hanem:
+- Szigorú
+- Átlátható  
+- Elszámoltatható
 
-Kit érinthet, amit létrehoznak, vagy maga az együttműködés, vagy bármilyen elmulasztott pontatlanság?
+### Tágabb perspektíva
 
-Ki fér hozzá a kimenet előállításához használt adatokhoz?
+Ellentétben a többi kompetenciával, amelyek elsősorban az eredmények elérésére összpontosítanak, a gondosság arra kér minket, hogy vegyünk figyelembe tágabb kérdéseket, amelyek mindazonáltal kritikusak az MI együttműködés szempontjából, különösen szakmai környezetben:
 
-Hogyan biztosíthatom, hogy az interakcióm és az eredményem összhangban legyen az etikai normákkal és értékekkel?
+#### Kritikus kérdések
+
+- **Milyen következményekkel jár ezzel az MI-vel dolgozni?**
+- **Kit érinthet, amit létrehoznak, vagy maga az együttműködés, vagy bármilyen elmulasztott pontatlanság?**
+- **Ki fér hozzá a kimenet előállításához használt adatokhoz?**
+- **Hogyan biztosíthatom, hogy az interakcióm és az eredményem összhangban legyen az etikai normákkal és értékekkel?**
+
+## Az autóvezetés analógiája
 
 Gondolj rá úgy, mint az autóvezetésre.
 
-Nem csak arra koncentrálunk, hogy hatékonyan eljussunk A pontból B pontba.
-
-Figyelembe vesszük a biztonságot, betartjuk a közlekedési szabályokat, és tudatában vagyunk annak, hogyan hat a vezetésünk másokra az úton.
+Nem csak arra koncentrálunk, hogy hatékonyan eljussunk A pontból B pontba. Figyelembe vesszük:
+- A biztonságot
+- A közlekedési szabályok betartását
+- Azt, hogyan hat a vezetésünk másokra az úton
 
 Hasonlóképpen, a gondosság felismeri, hogy az MI rendszerek és az velük való interakcióink nem léteznek vákuumban.
 
-Az MI-vel való felelősségteljes munkához szükség van a tágabb kontextusok és azok következményeinek tudatosítására.
+!!! important "Kulcs felismerés"
+    Az MI-vel való felelősségteljes munkához szükség van a tágabb kontextusok és azok következményeinek tudatosítására.
+
+## Kritikus gondolkodás a rendszerekről
 
 A gondosság azzal kezdődik, hogy kritikusan átgondoltabbá válunk abban, hogy mely MI rendszerekkel dolgozunk, hogyan dolgozunk velük, és milyen hatásokkal járnak ezek az együttműködések.
 
+### Alapvető kérdések
+
 Válaszokat kell keresnünk olyan kérdésekre, mint:
 
-hogyan képezték és építették ezt a rendszert?
+- **Hogyan képezték és építették ezt a rendszert?**
+- **Milyen adatokat használtak?**
+- **Ki a tulajdonosa az általam most bevitt adatoknak?**
+- **Ki férhet hozzá, miután megosztották?**
+- **Hogyan védem a saját és mások magánéletét és biztonságát?**
+- **Milyen egyéb hatásai vannak ennek a rendszernek?**
+- **Hogyan illeszkedik ez az interakció a személyes és szakmai értékeimhez, vagy a szervezetem irányelveihez?**
 
-Milyen adatokat használtak?
+### Példa
 
-Ki a tulajdonosa az általam most bevitt adatoknak?
+Mielőtt érzékeny vállalati információkat osztanál meg egy MI asszisztenssel, fontos először ellenőrizni, hogy:
+- A szolgáltatás rendelkezik-e megfelelő adatvédelmi irányelvekkel
+- A szervezeted engedélyezi-e az ilyen megosztást
 
-Ki férhet hozzá, miután megosztották?
+## 1. Alkotói gondosság
 
-Hogyan védem a saját és mások magánéletét és biztonságát?
+Ezt a fajta gondosságot **alkotói gondosságnak** nevezzük.
 
-Milyen egyéb hatásai vannak ennek a rendszernek?
+**Definíció:** Ez az a képességed, hogy kritikus és szándékos legyél abban, hogy mely MI rendszereket választod, és hogyan dolgozol velük.
 
-Hogyan illeszkedik ez az interakció a személyes és szakmai értékeimhez, vagy a szervezetem irányelveihez?
+## 2. Átláthatósági gondosság
 
-Például, mielőtt érzékeny vállalati információkat osztanál meg egy MI asszisztenssel, fontos először ellenőrizni, hogy a szolgáltatás rendelkezik-e megfelelő adatvédelmi irányelvekkel, vagy hogy a szervezeted engedélyezi-e az ilyen megosztást.
+### Környezeti elvárások
 
-Ezt a fajta gondosságot alkotói gondosságnak nevezzük.
-
-Ez az a képességed, hogy kritikus és szándékos legyél abban, hogy mely MI rendszereket választod, és hogyan dolgozol velük.
-
-A különböző környezetek, személyes, tudományos, kreatív és szakmai, eltérő elvárásokat támaszthatnak az MI interakcióval kapcsolatos közzététellel szemben.
+A különböző környezetek eltérő elvárásokat támaszthatnak az MI interakcióval kapcsolatos közzététellel szemben:
+- Személyes
+- Tudományos
+- Kreatív
+- Szakmai
 
 Azonban mindannyiunk felelőssége, hogy megértsük és megfeleljünk ezeknek az elvárásoknak.
 
-Kérdezd meg magadtól, kinek kell tudnia az MI szerepéről ebben a munkában?
+### Kulcskérdések
 
-Hogyan és mikor kellene ezt kommunikálnom?
+Kérdezd meg magadtól:
+- **Kinek kell tudnia az MI szerepéről ebben a munkában?**
+- **Hogyan és mikor kellene ezt kommunikálnom?**
+- **Milyen szintű részletesség megosztása ésszerű?**
 
-Milyen szintű részletesség megosztása ésszerű?
+### Miért fontos az átláthatóság?
 
 Az átláthatósági elvárásoknak való megfelelés, más szóval, az őszinteség és becsületesség, nem csak a szabályok és előírások betartásáról szól.
 
-Hanem a bizalom és tisztelet fenntartásáról a kapcsolataidban.
+Hanem:
+- A bizalom és tisztelet fenntartásáról a kapcsolataidban
+- Annak elismeréséről, hogy az embereknek joguk van tudni, mikor játszott jelentős szerepet az MI a tartalom létrehozásában vagy az őket érintő döntésekben
 
-Elismeri, hogy az embereknek joguk van tudni, mikor játszott jelentős szerepet az MI a tartalom létrehozásában vagy az őket érintő döntésekben.
+### Példa
 
-Például, ha MI-t használtál egy csapatjavaslat megfogalmazásához, a kollégáid tájékoztatása arról, hogy mely részek voltak MI-asszisztáltak, őszintébb együttműködést tesz lehetővé, és mindenkit ugyanazon az oldalon tart.
+Ha MI-t használtál egy csapatjavaslat megfogalmazásához, a kollégáid tájékoztatása arról, hogy mely részek voltak MI-asszisztáltak:
+- Őszintébb együttműködést tesz lehetővé
+- Mindenkit ugyanazon az oldalon tart
 
-Ezt átláthatósági gondosságnak nevezzük.
+**Definíció:** Az átláthatósági gondosság az a képesség, hogy nyílt és pontos legyél az MI interakcióval kapcsolatban mindenkivel, akinek tudnia kell róla.
 
-Ez az a képesség, hogy nyílt és pontos legyél az MI interakcióval kapcsolatban mindenkivel, akinek tudnia kell róla.
+## 3. Alkalmazási gondosság
+
+### Végső felelősség
 
 Ahogy korábban megbeszéltük, az MI rendszerek hibázhatnak.
 
-Amikor MI által generált tartalmat osztasz meg a világgal, te, nem az MI, vagy végső soron felelős annak pontosságáért és megfelelőségéért.
+!!! warning "Fontos emlékeztető"
+    Amikor MI által generált tartalmat osztasz meg a világgal, **te, nem az MI**, vagy végső soron felelős annak pontosságáért és megfelelőségéért.
 
-Ez azt jelenti, hogy ellenőrizned kell a tényeket, keresned kell a torzításokat, biztosítanod kell a pontosságot és a felhasználási jogokat, és egyéb ellenőrzéseket kell végezned, hogy kiállhass amellett, amit megosztasz.
+### Mit jelent ez a gyakorlatban?
 
-Gondolj egy újságíróra, aki MI-t használ egy cikk megírásához.
+Ez azt jelenti, hogy:
+- Ellenőrizned kell a tényeket
+- Keresned kell a torzításokat
+- Biztosítanod kell a pontosságot és a felhasználási jogokat
+- Egyéb ellenőrzéseket kell végezned, hogy kiállhass amellett, amit megosztasz
 
-A közzététel előtt minden tényt és forrást ellenőriznie kellene.
+### Újságírói példa
 
-Biztosítania kell, hogy a végső darab megfeleljen minden újságírói normának, ugyanazoknak a normáknak, amelyek akkor is érvényesek lennének, ha teljesen maga írta volna.
+Gondolj egy újságíróra, aki MI-t használ egy cikk megírásához:
 
-Ezt alkalmazási gondosságnak nevezzük.
+**A közzététel előtt:**
+- Minden tényt és forrást ellenőriznie kellene
+- Biztosítania kell, hogy a végső darab megfeleljen minden újságírói normának
+- Ugyanazoknak a normáknak, amelyek akkor is érvényesek lennének, ha teljesen maga írta volna
 
-Ez az a képesség, hogy tájékozott felelősséget vállalj azokért a kimenetekért, amelyeket használsz vagy megosztasz, miután azokat MI segítségével hozták létre.
+**Definíció:** Az alkalmazási gondosság az a képesség, hogy tájékozott felelősséget vállalj azokért a kimenetekért, amelyeket használsz vagy megosztasz, miután azokat MI segítségével hozták létre.
 
-Ezen gondossági megfontolások navigálása nem mindig egyszerű.
+## Navigálás a gondossági megfontolásokban
 
-A különböző kontextusok és érdekelt felek eltérő elvárásokkal és normákkal rendelkezhetnek.
+### A kihívás
 
-Tehát segít személyes irányelveket kidolgozni az MI-vel való munkához, amelyek összhangban vannak a saját etikáddal és értékeiddel.
+Ezen gondossági megfontolások navigálása nem mindig egyszerű. A különböző kontextusok és érdekelt felek eltérő elvárásokkal és normákkal rendelkezhetnek.
 
-Szakmai kontextusban pedig ismerkedj meg a szervezeti irányelvekkel és az iparági normákkal.
+### Gyakorlati megoldások
 
-És ne feledd, hogy az MI körüli jogi és szabályozási keretek még csak most alakulnak ki, és tovább fognak fejlődni.
+#### Személyes irányelvek
 
-A tájékozottság a gondosság fontos része.
+Segít személyes irányelveket kidolgozni az MI-vel való munkához, amelyek összhangban vannak:
+- A saját etikáddal
+- Az értékeiddel
 
-Összefoglalva, az alkotói, átláthatósági és alkalmazási gondosság együttesen alkotja a teljes gondossági kompetenciát.
+#### Szakmai kontextus
 
-A gondossági képességed fejlesztésével biztosítod, hogy az MI használatod ne csak hatékony és eredményes, hanem etikus és biztonságos is legyen.
+Szakmai kontextusban:
+- Ismerkedj meg a szervezeti irányelvekkel
+- Tanulj az iparági normákról
 
-A gondosság emlékeztet minket arra, hogy az MI-vel való interakciónk felelősséggel jár.
+#### Fejlődő környezet
 
-Hogy átgondoltak legyünk a választott rendszerekkel és azokkal való munkamódszerünkkel kapcsolatban, hogy őszinték legyünk az MI szerepéről a munkánkban, és végső soron, hogy elszámoltathatóak legyünk azért, amit az MI-vel közösen alkotunk.
+!!! note "Fontos megjegyzés"
+    Ne feledd, hogy az MI körüli jogi és szabályozási keretek még csak most alakulnak ki, és tovább fognak fejlődni. **A tájékozottság a gondosság fontos része.**
 
-Mindannyian olyan MI-t szeretnénk, amely méltányos és biztonságos, és a társadalmunk javát szolgálja.
+## Összefoglalás
 
-A saját viselkedésünk kulcsszerepet játszik ennek megvalósításában.
+### A gondosság három pillére
 
+Az **alkotói**, **átláthatósági** és **alkalmazási gondosság** együttesen alkotja a teljes gondossági kompetenciát.
+
+### Miért fontos?
+
+A gondossági képességed fejlesztésével biztosítod, hogy az MI használatod ne csak:
+- Hatékony és eredményes legyen
+- Hanem **etikus és biztonságos** is
+
+### Alapvető üzenet
+
+A gondosság emlékeztet minket arra, hogy **az MI-vel való interakciónk felelősséggel jár**.
+
+Ez azt jelenti, hogy:
+- **Átgondoltak** legyünk a választott rendszerekkel és azokkal való munkamódszerünkkel kapcsolatban
+- **Őszinték** legyünk az MI szerepéről a munkánkban
+- **Elszámoltathatóak** legyünk azért, amit az MI-vel közösen alkotunk
+
+## Záró gondolatok
+
+Mindannyian olyan MI-t szeretnénk, amely:
+- Méltányos és biztonságos
+- A társadalmunk javát szolgálja
+
+**A saját viselkedésünk kulcsszerepet játszik ennek megvalósításában.**

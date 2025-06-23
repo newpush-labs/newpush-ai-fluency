@@ -3,99 +3,148 @@
 !!! info "Videó átirat"
     Ez a videó teljes átirata. Használd a böngésző kereső funkcióját (Ctrl+F / Cmd+F) specifikus fogalmak kereséséhez.
 
+## Bevezetés
+
 Ebben a videóban mélyebben beleássuk magunkat az MI fluencia megkülönböztetési kompetenciájába.
 
 Az MI fluencia azt jelenti, hogy hatékonyan, eredményesen, etikusan és biztonságosan dolgozunk az MI-vel.
 
-A megkülönböztetés kifejezetten az MI kimeneteinek, folyamatainak és viselkedésének értékeléséről szól, lényegében a minőség-ellenőrzési rendszered az MI együttműködéshez.
+## Mi a megkülönböztetés?
 
-A megkülönböztetés az a képességed, hogy kritikusan értékeld, mit termel az MI, hogyan termeli azt, és hogyan viselkedik.
+A megkülönböztetés kifejezetten az MI kimeneteinek, folyamatainak és viselkedésének értékeléséről szól, lényegében a **minőség-ellenőrzési rendszered** az MI együttműködéshez.
 
-Ez a leírás másik oldala.
+A megkülönböztetés az a képességed, hogy kritikusan értékeld:
+- Mit termel az MI
+- Hogyan termeli azt
+- Hogyan viselkedik
 
-Ha a leírás arról szól, hogy világosan kommunikálod, mit szeretnél, a megkülönböztetés arról szól, hogy eldöntsd, amit visszakapsz, az valóban megfelel-e az igényeidnek.
+### A leírás másik oldala
 
-A megkülönböztetési képességed fejlesztése segít felismerni, mikor értékesek az MI kimenetei, és mikor problematikusak.
+Ez a leírás másik oldala. Ha a leírás arról szól, hogy világosan kommunikálod, mit szeretnél, a megkülönböztetés arról szól, hogy eldöntsd, amit visszakapsz, az valóban megfelel-e az igényeidnek.
 
-Felismerni az erősségeket és korlátokat, és eldönteni, mikor használhatók a kimenetek, vagy mikor van szükség további munkára.
+### Miért fontos?
 
-Ennek jó elvégzéséhez mind szakterületi tudásra van szükség, más szóval, eleget kell tudnod a minőség megítéléséhez, mind pedig annak megértésére, hogyan működnek az MI rendszerek, beleértve a tipikus hiányosságaikat is.
+A megkülönböztetési képességed fejlesztése segít:
+- Felismerni, mikor értékesek az MI kimenetei, és mikor problematikusak
+- Felismerni az erősségeket és korlátokat
+- Eldönteni, mikor használhatók a kimenetek, vagy mikor van szükség további munkára
 
-Ne feledd, még a legfejlettebb MI rendszerek is követhetnek el érvelési hibákat, produkálhatnak ténybeli tévedéseket, vagy viselkedhetnek váratlan módon.
+### Szükséges tudás
 
-A megkülönböztetési képességed alapvető biztosítékként működik.
+Ennek jó elvégzéséhez szükség van:
+- **Szakterületi tudásra** - eleget kell tudnod a minőség megítéléséhez
+- **MI rendszerek megértésére** - beleértve a tipikus hiányosságaikat is
+
+!!! warning "Fontos emlékeztető"
+    Ne feledd, még a legfejlettebb MI rendszerek is követhetnek el érvelési hibákat, produkálhatnak ténybeli tévedéseket, vagy viselkedhetnek váratlan módon. A megkülönböztetési képességed alapvető biztosítékként működik.
+
+## 1. Termék-megkülönböztetés
 
 A megkülönböztetés legegyszerűbb formája annak értékelése, hogy az MI mit termel valójában.
 
+### Kulcskérdések az értékeléshez
+
 Amikor MI által generált tartalmat vizsgálsz, tedd fel magadnak a következő kérdéseket:
 
-Ténybelileg pontos?
+- **Ténybelileg pontos?**
+- **Megfelelő a közönségemnek és a célomnak?**
+- **Összefüggő és jól strukturált?**
+- **Megfelel a követelményeimnek?**
+- **Hozzáadott értéket képvisel, vagy megoldja a szándékolt problémát?**
 
-Megfelelő a közönségemnek és a célomnak?
+**Definíció:** A termék-megkülönböztetés az a képesség, hogy megítéljük az MI által létrehozott kimenet pontosságát és értékét.
 
-Összefüggő és jól strukturált?
-
-Megfelel a követelményeimnek?
-
-És hozzáadott értéket képvisel, vagy megoldja a szándékolt problémát?
-
-Ezt az első koncepciót termék-megkülönböztetésnek nevezzük, az a képesség, hogy megítéljük az MI által létrehozott kimenet pontosságát és értékét.
+## 2. Folyamat-megkülönböztetés
 
 Amikor MI-vel lépsz interakcióba, nemcsak azt kell értékelned, amit az MI termel, hanem azt is, hogyan jutott el odáig.
 
-Néhány dolog, amire figyelni kell: logikai hibák, az MI figyelmének kihagyásai, nem megfelelő lépések megtétele, egy apró részleten vagy értelmezésen való elakadás és az alternatívák figyelembevételének képtelensége, vagy körkörös érvelésbe való csapdába esés.
+### Figyelendő problémák
 
-Például képzeld el, hogy egy MI-vel dolgozol egy dokumentum öt vázlatopciójának egyikének kibővítésén.
+Néhány dolog, amire figyelni kell:
+- **Logikai hibák**
+- **Az MI figyelmének kihagyásai**
+- **Nem megfelelő lépések megtétele**
+- **Egy apró részleten vagy értelmezésen való elakadás**
+- **Az alternatívák figyelembevételének képtelensége**
+- **Körkörös érvelésbe való csapdába esés**
 
-Több környi oda-vissza ötletelés után észreveszed, hogy az elutasított ötletek elemeit az MI újra beilleszti.
+### Példa
 
-Ezt a fajta felismerést folyamat-megkülönböztetésnek nevezzük, az a képesség, hogy megítéljük az MI folyamatának minőségét és hatékonyságát.
+Képzeld el, hogy egy MI-vel dolgozol egy dokumentum öt vázlatopciójának egyikének kibővítésén. Több környi oda-vissza ötletelés után észreveszed, hogy az elutasított ötletek elemeit az MI újra beilleszti.
 
-Szükséges ahhoz, hogy biztosítsd, te és az MI szinkronban gondolkodtok a folyamat során, irányítva az MI-t a sikerről alkotott víziód felé.
+**Definíció:** A folyamat-megkülönböztetés az a képesség, hogy megítéljük az MI folyamatának minőségét és hatékonyságát.
 
-Különösen fontossá válik összetett feladatoknál, ahol a helyes válasz nem azonnal nyilvánvaló.
+### Jelentősége
 
-Ezekben a helyzetekben a folyamatba vetett bizalom mindent eldönt.
+- Szükséges ahhoz, hogy biztosítsd, te és az MI szinkronban gondolkodtok a folyamat során
+- Irányítja az MI-t a sikerről alkotott víziód felé
+- Különösen fontossá válik összetett feladatoknál, ahol a helyes válasz nem azonnal nyilvánvaló
+- Ezekben a helyzetekben a folyamatba vetett bizalom mindent eldönt
+
+## 3. Teljesítmény-megkülönböztetés
 
 Gyakran értékes az is, hogy értékeld és irányítsd, hogyan viselkedik az MI az interakció során.
 
-Ezt teljesítmény-megkülönböztetésnek nevezzük.
+### A folyamat és teljesítmény közötti különbség
 
-A folyamat és a teljesítmény közötti különbség talán kissé finom.
+A különbség talán kissé finom:
+- **Folyamat** = a munka, amit az MI végez
+- **Teljesítmény** = mennyire jól lép interakcióba veled, miközben a munkát végzi
 
-A folyamatot úgy képzelheted el, mint a munkát, amit az MI végez, míg a teljesítmény az, hogy mennyire jól lép interakcióba veled, miközben a munkát végzi.
+### Értékelési kérdések
 
-Amikor egy MI asszisztens teljesítményét értékeled, felteheted magadnak a kérdést: van-e jobb módja annak, hogy az MI kommunikáljon veled a nagyobb könnyedség és termelékenység érdekében a jövőben?
+Amikor egy MI asszisztens teljesítményét értékeled, felteheted magadnak a kérdést:
 
-A szükséges információkat segítőkész módon nyújtja?
+- **Van-e jobb módja annak, hogy az MI kommunikáljon veled** a nagyobb könnyedség és termelékenység érdekében a jövőben?
+- **A szükséges információkat segítőkész módon nyújtja?**
+- **Jól reagál a visszajelzéseidre és iránymutatásodra?**
+- **Az interakció hatékony vagy feleslegesen bonyolult?**
 
-Jól reagál a visszajelzéseidre és iránymutatásodra?
+### Példák a teljesítmény problémákra
 
-És az interakció hatékony vagy feleslegesen bonyolult?
+- Túl sok kérdést tesz fel az MI, amikor tömör válaszokra van szükséged
+- Túl rövid, amikor átfogó információra van szükséged
 
-Például, túl sok kérdést tesz fel az MI, amikor tömör válaszokra van szükséged, vagy túl rövid, amikor átfogó információra van szükséged?
+**Definíció:** A teljesítmény-megkülönböztetés az a képesség, hogy megítéljük az ember-MI interakció minőségét, ami segít produktívabb munkakapcsolatot kialakítani az MI rendszerekkel.
 
-Ezt teljesítmény-megkülönböztetésnek nevezzük, az a képesség, hogy megítéljük az ember-MI interakció minőségét, ami segít produktívabb munkakapcsolatot kialakítani az MI rendszerekkel.
+## Visszajelzés és javítás
 
-Természetesen a megkülönböztetés nem ér véget az értékeléssel.
+Természetesen a megkülönböztetés nem ér véget az értékeléssel. **Visszajelzést is kell adnod** annak érdekében, hogy javítsd, amit egy MI a jövőben nyújt.
 
-Visszajelzést is kell adnod annak érdekében, hogy javítsd, amit egy MI a jövőben nyújt.
+### Hatékony visszajelzés elemei
 
-Amikor problémákat azonosítasz az MI kimeneteiben, a hatékony visszajelzés magában foglalja a probléma meghatározását, annak világos elmagyarázását, hogy miért probléma, konkrét javaslatok adását a javításra, és az utasításaid vagy példáid felülvizsgálatát.
+Amikor problémákat azonosítasz az MI kimeneteiben, a hatékony visszajelzés magában foglalja:
 
-Más szavakkal, amikor a megkülönböztetés problémát jelez, a jobb leírás gyakran a megoldás.
+1. **A probléma meghatározását**
+2. **Annak világos elmagyarázását, hogy miért probléma**
+3. **Konkrét javaslatok adását a javításra**
+4. **Az utasításaid vagy példáid felülvizsgálatát**
 
-De ez nem mindig van így.
+### A megkülönböztetés és leírás kapcsolata
 
-Néha újra kell gondolnod a delegálási döntéseidet, mert lehet, hogy rossz eszközt használsz, vagy teljesen rossz módon közelíted meg a problémát.
+!!! info "Fontos kapcsolat"
+    **Amikor a megkülönböztetés problémát jelez, a jobb leírás gyakran a megoldás.**
 
-Összefoglalva, a termék-, folyamat- és teljesítmény-megkülönböztetés együttesen alkotja a megkülönböztetési kompetenciát.
+De ez nem mindig van így. Néha újra kell gondolnod a delegálási döntéseidet, mert lehet, hogy:
+- Rossz eszközt használsz
+- Teljesen rossz módon közelíted meg a problémát
 
-A megkülönböztetés kéz a kézben működik a leírással.
+## Összefoglalás
 
-Míg a leírás arra összpontosít, hogy kommunikáld az igényeidet az MI-nek, a megkülönböztetés azt értékeli, mennyire jól teljesültek ezek az igények.
+### A megkülönböztetés három pillére
 
-Együtt egy folyamatos utasítási és értékelési hurkot alkotnak, amely a minőséget hajtja.
+A **termék-**, **folyamat-** és **teljesítmény-megkülönböztetés** együttesen alkotja a megkülönböztetési kompetenciát.
+
+### A leírással való kapcsolat
+
+A megkülönböztetés kéz a kézben működik a leírással:
+
+- **Leírás** → kommunikáld az igényeidet az MI-nek
+- **Megkülönböztetés** → értékeld, mennyire jól teljesültek ezek az igények
+
+Együtt egy **folyamatos utasítási és értékelési hurkot** alkotnak, amely a minőséget hajtja.
+
+### Záró gondolat
 
 A megkülönböztetési készségeid fejlesztésével biztosítod, hogy az MI együttműködésedet emberi ítélőképesség vezérelje, ami a valóban hatékony MI fluencia kritikus eleme.
 
