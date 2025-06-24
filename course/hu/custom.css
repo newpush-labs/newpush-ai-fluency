@@ -20,25 +20,6 @@ body {
     -moz-osx-font-smoothing: grayscale;
 }
 
-/* --- Layout and Container Improvements --- */
-
-/* Improved content container */
-.md-container {
-    max-width: 1200px;
-    margin: 0 auto;
-}
-
-.md-main__inner {
-    max-width: none;
-    margin-top: 0;
-}
-
-.md-content {
-    max-width: 800px;
-    margin: 0 auto;
-    padding: 0 1.5rem;
-}
-
 /* Header and navigation bar */
 .md-header {
     background: linear-gradient(135deg, #1967C0 0%, #1557A0 100%);
@@ -342,25 +323,6 @@ a:hover {
 
 /* --- Enhanced Navigation and Sidebar --- */
 
-/* Left sidebar (main navigation) */
-.md-nav--primary {
-    font-size: 0.9rem;
-}
-
-.md-nav--primary .md-nav__item {
-    border-bottom: 1px solid #f0f0f0;
-    margin-bottom: 2px;
-}
-
-.md-nav__link {
-    padding: 0.75rem 1rem;
-    transition: all 0.2s ease;
-    border-radius: 6px;
-    margin: 0 0.5rem;
-    font-weight: 400;
-    color: #5d6d7e;
-}
-
 .md-nav__item--active > .md-nav__link {
     background: linear-gradient(135deg, #2980b9 0%, #1967C0 100%);
     color: #ffffff !important;
@@ -371,72 +333,6 @@ a:hover {
 .md-nav__link:hover {
     background-color: #f8fbff;
     color: #1967C0;
-    transform: translateX(4px);
-}
-
-/* Right sidebar (table of contents) */
-.md-sidebar--secondary {
-    width: 14rem;
-}
-
-.md-sidebar--secondary .md-nav__title {
-    font-size: 1.1rem;
-    font-weight: 600;
-    color: #2c3e50;
-    padding-bottom: 0.75rem;
-    border-bottom: 2px solid #e3f2fd;
-    margin-bottom: 1rem;
-    text-transform: uppercase;
-    letter-spacing: 0.05em;
-}
-
-.md-sidebar--secondary .md-nav__link {
-    padding: 0.5rem 0;
-    font-size: 0.875rem;
-    color: #5d6d7e;
-    border-left: 3px solid transparent;
-    padding-left: 0.75rem;
-    transition: all 0.2s ease;
-}
-
-.md-sidebar--secondary .md-nav__link:hover {
-    color: #1967C0;
-    border-left-color: #e3f2fd;
-    background-color: #f8fbff;
-}
-
-.md-sidebar--secondary .md-nav__link--active {
-    color: #1967C0;
-    font-weight: 500;
-    border-left-color: #2980b9;
-    background-color: #f8fbff;
-}
-
-/* Improved grid layout */
-.md-grid {
-    max-width: 1200px;
-    margin: 0 auto;
-}
-
-.md-main__inner {
-    margin-top: 0;
-    padding-top: 1rem;
-}
-
-/* Mobile responsiveness */
-@media screen and (max-width: 76.1875em) {
-    .md-content {
-        padding: 0 1rem;
-    }
-    
-    .md-nav__link {
-        margin: 0;
-        border-radius: 0;
-    }
-    
-    .md-nav__link:hover {
-        transform: none;
-    }
 }
 
 /* --- Additional Enhancements --- */
@@ -646,4 +542,9 @@ html {
 .md-typeset abbr.abbr-first:hover {
     color: #1967C0;
     border-bottom-color: #1967C0;
+}
+/* --- Custom Font Size for Sidebars --- */
+.md-nav--primary .md-nav__link,
+.md-sidebar--secondary .md-nav__link {
+    font-size: 1rem;
 }
